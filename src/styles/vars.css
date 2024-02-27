@@ -1,0 +1,12 @@
+:root {
+    /* Font */
+    --font-dm-sans: "DM Sans", sans-serif;
+    --font-roboto: "Roboto", sans-serif;
+
+    /* Colors */
+    --palette-fst: #0d1b2a;
+    --palette-snd: #1b263b;
+    --palette-trd: #415a77;
+    --palette-fourth: #778da9;
+    --palette-fifth: #e0e1dd;
+}
