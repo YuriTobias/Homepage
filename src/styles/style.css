@@ -33,6 +33,7 @@ body {
     box-shadow: 2px 2px 6px 0px #000;
 }
 
+.nav-link:focus,
 .close-icon {
     color: var(--palette-fifth) !important;
 }
@@ -42,7 +43,6 @@ body {
     transition: background-color 0.5s ease;
 }
 
-.nav-link:focus,
 .nav-link:hover,
 .nav-item .cur-page {
     color: var(--palette-fifth) !important;
