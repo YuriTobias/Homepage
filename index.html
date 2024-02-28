@@ -8,7 +8,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
-            href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+            href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
             rel="stylesheet" />
         <link rel="stylesheet" href="./src/styles/reset.css" />
         <link
@@ -23,9 +23,9 @@
         <div class="main-content container text-center">
             <div class="row custom-row">
                 <!-- Navbar -->
-                <div class="col-12 col-lg-3 d-flex align-items-lg-center">
-                    <nav class="navbar navbar-expand-lg d-flex align-items-start rounded-start rounded-5 ms-lg-4">
-                        <div class="container-fluid">
+                <div class="col-12 col-lg-3 d-flex align-items-lg-center ps-0">
+                    <nav class="navbar navbar-expand-lg d-flex align-items-start rounded-start rounded-5">
+                        <div class="container">
                             <button
                                 class="navbar-toggler"
                                 type="button"
@@ -65,37 +65,41 @@
                                     <ul class="navbar-nav d-lg-flex flex-column mb-5">
                                         <li class="nav-item">
                                             <a
-                                                class="cur-page nav-link rounded-start rounded-5 px-5 mb-2"
+                                                class="cur-page text-start nav-link rounded-pill rounded-5 px-5 py-3 mb-2"
                                                 aria-current="page"
-                                                href="#"
-                                                >About me</a
+                                                href="#">
+                                                <i class="fa-regular fa-user pe-2" style="color: #e0e1dd"></i>
+                                                <span>About me</span></a
                                             >
                                         </li>
                                         <li class="nav-item">
                                             <a
-                                                class="nav-link rounded-start rounded-5 px-5 mb-2"
+                                                class="nav-link text-start rounded-pill rounded-5 px-5 py-3 mb-2"
                                                 href="#"
                                                 data-bs-toggle="modal"
                                                 data-bs-target="#exampleModal">
-                                                Experience</a
-                                            >
+                                                <i class="fa-regular fa-star pe-2" style="color: #e0e1dd"></i>
+                                                <span>Experience</span>
+                                            </a>
                                         </li>
                                         <li class="nav-item">
                                             <a
-                                                class="nav-link rounded-start rounded-5 px-5 mb-2"
+                                                class="nav-link text-start rounded-pill rounded-5 px-5 py-3 mb-2"
                                                 href="#"
                                                 data-bs-toggle="modal"
                                                 data-bs-target="#exampleModal">
-                                                Certificates</a
+                                                <i class="fa-solid fa-medal pe-2" style="color: #e0e1dd"></i>
+                                                <span>Certificates</span></a
                                             >
                                         </li>
                                         <li class="nav-item">
                                             <a
-                                                class="nav-link rounded-start rounded-5 px-5 mb-2"
+                                                class="nav-link text-start rounded-pill rounded-5 px-5 py-3 mb-2"
                                                 href="#"
                                                 data-bs-toggle="modal"
-                                                data-bs-target="#exampleModal"
-                                                >Projects</a
+                                                data-bs-target="#exampleModal">
+                                                <i class="fa-solid fa-bars-progress pe-2" style="color: #e0e1dd"></i>
+                                                <span>Projects</span></a
                                             >
                                         </li>
                                     </ul>
@@ -119,25 +123,35 @@
                 <!-- Main section -->
                 <div class="col-12 col-lg-9 custom-col d-flex align-items-lg-center">
                     <main class="main-section d-flex flex-column justify-content-lg-between h-100">
-                        <div class="row">
-                            <div class="col-12 d-flex justify-content-center py-4 py-lg-5">
+                        <div class="row py-lg-4">
+                            <div class="col-12 d-flex d-lg-none justify-content-center py-4">
                                 <h1 class="title-about pe-3">About</h1>
                                 <h1 class="title-me">Me</h1>
                             </div>
                         </div>
                         <div class="row py-lg-5">
-                            <div class="col-12 col-lg-6 order-lg-2 py-4 py-lg-0">
+                            <div
+                                class="col-12 col-lg-6 order-lg-2 d-flex align-items-center justify-content-center py-4 py-lg-0">
                                 <img class="about-img rounded-circle" src="./src/assets/TechImage.png" alt="" />
                             </div>
                             <div
-                                class="col-12 col-lg-6 order-lg-1 d-flex align-items-center justify-content-center py-4 py-lg-0">
-                                <p class="about-text px-2 px-lg-5">
+                                class="col-12 col-lg-6 order-lg-1 d-flex flex-column align-items-center justify-content-center py-4 py-lg-0">
+                                <div class="d-none d-lg-flex justify-content-center py-lg-5">
+                                    <h1 class="title-about pe-3">About</h1>
+                                    <h1 class="title-me">Me</h1>
+                                </div>
+                                <p class="about-text px-2 px-lg-4 pb-2">
                                     Hi there, my name is Yuri and I’m 19 years old. Actually, I’m a Computer Science
                                     student at Federal University of Parana (UFPR). I am currently a scientific
-                                    initiation scholarship holder in the Science at School project. I was also a member
-                                    of the Junior Computing Company (ECOMP) where I was able to obtain diverse knowledge
-                                    in different areas, for example: front (Vue.js, Javascript, HTML & CSS), deploy
-                                    (Heroku, DigitalOcean, Nginx & Apache) and code versioning (Git, GitHub & GitLab).
+                                    initiation scholarship holder in the Science at School project.
+                                </p>
+                                <p class="about-text px-2 px-lg-4 pb-2">
+                                    I was also a member of the Junior Computing Company (ECOMP) where I was able to
+                                    obtain diverse knowledge in different areas, for example: front (Vue.js, Javascript,
+                                    HTML & CSS), deploy (Heroku, DigitalOcean, Nginx & Apache) and code versioning (Git,
+                                    GitHub & GitLab).
+                                </p>
+                                <p class="about-text px-2 px-lg-4">
                                     After taking the Database course, I became very interested in this area, which I
                                     intend to work after graduation.
                                 </p>

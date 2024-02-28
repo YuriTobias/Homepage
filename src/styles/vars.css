@@ -1,7 +1,8 @@
 :root {
     /* Font */
     --font-dm-sans: "DM Sans", sans-serif;
-    --font-roboto: "Roboto", sans-serif;
+    --font-poppins: "Poppins", sans-serif;
+    --font-pacifico: "Pacifico", cursive;
 
     /* Colors */
     --palette-fst: #0d1b2a;

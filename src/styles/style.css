@@ -1,7 +1,7 @@
 body {
     background-color: var(--palette-fst);
     color: var(--palette-fifth);
-    font-family: var(--font-dm-sans);
+    font-family: var(--font-poppins);
 }
 
 .main-content {
@@ -39,8 +39,7 @@ body {
 
 .nav-item a {
     color: var(--palette-fifth);
-    border: 3px solid var(--palette-fourth);
-    box-shadow: 2px 2px 6px 0px #000;
+    transition: background-color 0.5s ease;
 }
 
 .nav-link:focus,
@@ -71,10 +70,14 @@ body {
 .title-about {
     color: var(--palette-fourth);
     font-size: 3rem;
+    font-family: var(--font-pacifico);
+    animation: fade-in 1.5s ease-out;
 }
 
 .title-me {
     font-size: 3rem;
+    font-family: var(--font-pacifico);
+    animation: fade-in 1.5s ease-out;
 }
 
 .about-img {
@@ -148,12 +151,12 @@ body {
     }
 
     .navbar {
-        height: 66vh;
         width: 80%;
         min-width: 230px;
         max-width: 280px;
         border: 3px solid var(--palette-fourth);
-        box-shadow: 2px 2px 6px 0px #000;
+        border-left: 0px;
+        box-shadow: 3px 3px 12px 0px #000;
     }
 
     .about-img {
@@ -183,5 +186,14 @@ body {
     }
     100% {
         border-color: blue;
+    }
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
     }
 }
