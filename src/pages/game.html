@@ -17,7 +17,7 @@
             integrity="sha512-Auj6EQnZw9fN1ucWnFyLv1hlfqGb1eVY1VlFmIhC+JlIu7/5vxEULu9a0fX2k0+5Ozuf5emvqfoXDIxYi3Tz3Q=="
             crossorigin="anonymous" />
         <link rel="stylesheet" href="/src/styles/vars.css" />
-        <link rel="stylesheet" href="/src/styles/style.css" />
+        <link rel="stylesheet" href="/src/styles/game.css" />
     </head>
     <body>
         <div class="main-content container text-center">
@@ -65,16 +65,16 @@
                                     <ul class="navbar-nav d-lg-flex flex-column mb-5">
                                         <li class="nav-item">
                                             <a
-                                                class="cur-page nav-link text-start rounded-pill rounded-5 px-5 py-3 mb-2"
+                                                class="nav-link text-start rounded-pill rounded-5 px-5 py-3 mb-2"
                                                 aria-current="page"
-                                                href="#">
+                                                href="/index.html">
                                                 <i class="fa-regular fa-user pe-2" style="color: #e0e1dd"></i>
                                                 <span>About me</span></a
                                             >
                                         </li>
                                         <li class="nav-item">
                                             <a
-                                                class="nav-link text-start rounded-pill rounded-5 px-5 py-3 mb-2"
+                                                class="cur-page nav-link text-start rounded-pill rounded-5 px-5 py-3 mb-2"
                                                 href="#"
                                                 data-bs-toggle="modal"
                                                 data-bs-target="#exampleModal">
@@ -121,8 +121,8 @@
                     </nav>
                 </div>
                 <!-- Main section -->
-                <div class="col-12 col-lg-9 custom-col d-flex align-items-lg-center">
-                    <main class="main-section d-flex flex-column justify-content-lg-between h-100">
+                <div class="col-12 col-lg-7 custom-col d-flex align-items-lg-center">
+                    <main class="main-section d-flex flex-column">
                         <div class="row py-lg-4">
                             <div class="col-12 d-flex d-lg-none justify-content-center py-4">
                                 <h1 class="title-about pe-3">About</h1>
@@ -159,13 +159,18 @@
                         </div>
                         <div class="row d-none d-lg-flex">
                             <div class="col-12 d-flex justify-content-end p-5">
-                                <a class="rocket-link rounded rounded-circle p-3" href="src/pages/game.html">
+                                <a
+                                    class="rocket-link rounded rounded-circle p-3"
+                                    href="#"
+                                    data-bs-toggle="modal"
+                                    data-bs-target="#exampleModal">
                                     <i class="fa-solid fa-rocket" style="color: #e0e1dd"></i>
                                 </a>
                             </div>
                         </div>
                     </main>
                 </div>
+                <div class="col-0 col-lg-2 d-flex"></div>
                 <!-- Modal -->
                 <div
                     class="modal fade"

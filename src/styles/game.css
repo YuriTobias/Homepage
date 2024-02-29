@@ -164,6 +164,10 @@ body {
         box-shadow: 3px 3px 12px 0px #000;
     }
 
+    .main-section {
+        border: 3px solid var(--palette-fourth);
+    }
+
     .about-img {
         width: 350px;
         height: 350px;
