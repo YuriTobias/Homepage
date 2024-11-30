@@ -1,0 +1,358 @@
+2024-11-30 16:10:07,142 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:07,921 - INFO - Server process started at 1732993807.9219294.
+2024-11-30 16:10:07,922 - INFO - Transmission started at 1732993807.9216182 accordingdly to client
+2024-11-30 16:10:07,922 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:07,922 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:07,922 - INFO - Transmission and server process ended at 1732993807.9225988.
+2024-11-30 16:10:07,922 - INFO - Total transmission time: 0.0009806156 seconds.
+2024-11-30 16:10:09,243 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:09,872 - INFO - Server process started at 1732993809.8726933.
+2024-11-30 16:10:09,872 - INFO - Transmission started at 1732993809.8725154 accordingdly to client
+2024-11-30 16:10:09,872 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:09,873 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:09,873 - INFO - Transmission and server process ended at 1732993809.8731148.
+2024-11-30 16:10:09,873 - INFO - Total transmission time: 0.0005993843 seconds.
+2024-11-30 16:10:10,667 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:11,265 - INFO - Server process started at 1732993811.2658145.
+2024-11-30 16:10:11,265 - INFO - Transmission started at 1732993811.265628 accordingdly to client
+2024-11-30 16:10:11,266 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:11,266 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:11,266 - INFO - Transmission and server process ended at 1732993811.2662146.
+2024-11-30 16:10:11,266 - INFO - Total transmission time: 0.0005865097 seconds.
+2024-11-30 16:10:12,071 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:12,651 - INFO - Server process started at 1732993812.6517627.
+2024-11-30 16:10:12,651 - INFO - Transmission started at 1732993812.651583 accordingdly to client
+2024-11-30 16:10:12,651 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:12,652 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:12,652 - INFO - Transmission and server process ended at 1732993812.6522112.
+2024-11-30 16:10:12,652 - INFO - Total transmission time: 0.0006282330 seconds.
+2024-11-30 16:10:13,303 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:13,758 - INFO - Server process started at 1732993813.7584653.
+2024-11-30 16:10:13,758 - INFO - Transmission started at 1732993813.7583058 accordingdly to client
+2024-11-30 16:10:13,758 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:13,758 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:13,758 - INFO - Transmission and server process ended at 1732993813.7589562.
+2024-11-30 16:10:13,759 - INFO - Total transmission time: 0.0006504059 seconds.
+2024-11-30 16:10:14,471 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:14,911 - INFO - Server process started at 1732993814.911762.
+2024-11-30 16:10:14,911 - INFO - Transmission started at 1732993814.911585 accordingdly to client
+2024-11-30 16:10:14,911 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:14,912 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:14,912 - INFO - Transmission and server process ended at 1732993814.9122043.
+2024-11-30 16:10:14,912 - INFO - Total transmission time: 0.0006191730 seconds.
+2024-11-30 16:10:17,135 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:17,716 - INFO - Server process started at 1732993817.7166882.
+2024-11-30 16:10:17,716 - INFO - Transmission started at 1732993817.7163942 accordingdly to client
+2024-11-30 16:10:17,716 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:17,720 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:17,720 - INFO - Transmission and server process ended at 1732993817.7201874.
+2024-11-30 16:10:17,720 - INFO - Total transmission time: 0.0037932396 seconds.
+2024-11-30 16:10:18,562 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:19,171 - INFO - Server process started at 1732993819.171868.
+2024-11-30 16:10:19,171 - INFO - Transmission started at 1732993819.1716774 accordingdly to client
+2024-11-30 16:10:19,172 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:19,172 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:19,172 - INFO - Transmission and server process ended at 1732993819.172265.
+2024-11-30 16:10:19,172 - INFO - Total transmission time: 0.0005877018 seconds.
+2024-11-30 16:10:20,048 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:20,602 - INFO - Server process started at 1732993820.6023085.
+2024-11-30 16:10:20,602 - INFO - Transmission started at 1732993820.6021256 accordingdly to client
+2024-11-30 16:10:20,602 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:20,602 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:20,602 - INFO - Transmission and server process ended at 1732993820.6027029.
+2024-11-30 16:10:20,602 - INFO - Total transmission time: 0.0005772114 seconds.
+2024-11-30 16:10:21,379 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:10:21,946 - INFO - Server process started at 1732993821.9461288.
+2024-11-30 16:10:21,946 - INFO - Transmission started at 1732993821.945961 accordingdly to client
+2024-11-30 16:10:21,946 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:10:21,946 - INFO - File '1024b.txt' received successfully and saved at 'received_files/1024b.txt'. Size: 1024 bytes.
+2024-11-30 16:10:21,946 - INFO - Transmission and server process ended at 1732993821.9466186.
+2024-11-30 16:10:21,946 - INFO - Total transmission time: 0.0006575584 seconds.
+2024-11-30 16:17:35,723 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:36,363 - INFO - Server process started at 1732994256.3630044.
+2024-11-30 16:17:36,363 - INFO - Transmission started at 1732994256.3627906 accordingdly to client
+2024-11-30 16:17:36,363 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:36,365 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 484640 bytes.
+2024-11-30 16:17:36,365 - INFO - Transmission and server process ended at 1732994256.3656442.
+2024-11-30 16:17:36,365 - INFO - Total transmission time: 0.0028536320 seconds.
+2024-11-30 16:17:37,354 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:37,996 - INFO - Server process started at 1732994257.9964838.
+2024-11-30 16:17:37,996 - INFO - Transmission started at 1732994257.9962876 accordingdly to client
+2024-11-30 16:17:37,996 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:37,998 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 459040 bytes.
+2024-11-30 16:17:37,998 - INFO - Transmission and server process ended at 1732994257.9983783.
+2024-11-30 16:17:37,998 - INFO - Total transmission time: 0.0020906925 seconds.
+2024-11-30 16:17:38,787 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:39,403 - INFO - Server process started at 1732994259.4039483.
+2024-11-30 16:17:39,404 - INFO - Transmission started at 1732994259.4037597 accordingdly to client
+2024-11-30 16:17:39,404 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:39,405 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 431392 bytes.
+2024-11-30 16:17:39,405 - INFO - Transmission and server process ended at 1732994259.405819.
+2024-11-30 16:17:39,405 - INFO - Total transmission time: 0.0020592213 seconds.
+2024-11-30 16:17:40,162 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:40,675 - INFO - Server process started at 1732994260.6754153.
+2024-11-30 16:17:40,675 - INFO - Transmission started at 1732994260.6752574 accordingdly to client
+2024-11-30 16:17:40,675 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:40,678 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 485664 bytes.
+2024-11-30 16:17:40,678 - INFO - Transmission and server process ended at 1732994260.6786935.
+2024-11-30 16:17:40,678 - INFO - Total transmission time: 0.0034360886 seconds.
+2024-11-30 16:17:41,508 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:42,131 - INFO - Server process started at 1732994262.1317613.
+2024-11-30 16:17:42,131 - INFO - Transmission started at 1732994262.1315355 accordingdly to client
+2024-11-30 16:17:42,131 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:42,134 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 474400 bytes.
+2024-11-30 16:17:42,134 - INFO - Transmission and server process ended at 1732994262.134326.
+2024-11-30 16:17:42,134 - INFO - Total transmission time: 0.0027904510 seconds.
+2024-11-30 16:17:43,044 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:43,621 - INFO - Server process started at 1732994263.6215973.
+2024-11-30 16:17:43,621 - INFO - Transmission started at 1732994263.6214147 accordingdly to client
+2024-11-30 16:17:43,621 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:43,624 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 492832 bytes.
+2024-11-30 16:17:43,624 - INFO - Transmission and server process ended at 1732994263.624305.
+2024-11-30 16:17:43,624 - INFO - Total transmission time: 0.0028903484 seconds.
+2024-11-30 16:17:44,361 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:44,939 - INFO - Server process started at 1732994264.9394677.
+2024-11-30 16:17:44,939 - INFO - Transmission started at 1732994264.9393027 accordingdly to client
+2024-11-30 16:17:44,939 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:44,942 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 485664 bytes.
+2024-11-30 16:17:44,942 - INFO - Transmission and server process ended at 1732994264.942664.
+2024-11-30 16:17:44,942 - INFO - Total transmission time: 0.0033612251 seconds.
+2024-11-30 16:17:45,749 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:46,315 - INFO - Server process started at 1732994266.3159232.
+2024-11-30 16:17:46,316 - INFO - Transmission started at 1732994266.3157575 accordingdly to client
+2024-11-30 16:17:46,316 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:46,317 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 482592 bytes.
+2024-11-30 16:17:46,317 - INFO - Transmission and server process ended at 1732994266.3178017.
+2024-11-30 16:17:46,317 - INFO - Total transmission time: 0.0020442009 seconds.
+2024-11-30 16:17:47,172 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:47,780 - INFO - Server process started at 1732994267.7802715.
+2024-11-30 16:17:47,780 - INFO - Transmission started at 1732994267.7800615 accordingdly to client
+2024-11-30 16:17:47,780 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:47,782 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 476448 bytes.
+2024-11-30 16:17:47,782 - INFO - Transmission and server process ended at 1732994267.782154.
+2024-11-30 16:17:47,782 - INFO - Total transmission time: 0.0020925999 seconds.
+2024-11-30 16:17:49,760 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:17:50,282 - INFO - Server process started at 1732994270.2820966.
+2024-11-30 16:17:50,282 - INFO - Transmission started at 1732994270.281917 accordingdly to client
+2024-11-30 16:17:50,282 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:17:50,284 - INFO - File '500kb.txt' received successfully and saved at 'received_files/500kb.txt'. Size: 317728 bytes.
+2024-11-30 16:17:50,284 - INFO - Transmission and server process ended at 1732994270.284256.
+2024-11-30 16:17:50,284 - INFO - Total transmission time: 0.0023388863 seconds.
+2024-11-30 16:19:22,086 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:19:22,765 - INFO - Server process started at 1732994362.765633.
+2024-11-30 16:19:22,765 - INFO - Transmission started at 1732994362.7654731 accordingdly to client
+2024-11-30 16:19:22,765 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:19:22,771 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 959040 bytes.
+2024-11-30 16:19:22,771 - INFO - Transmission and server process ended at 1732994362.7715373.
+2024-11-30 16:19:22,771 - INFO - Total transmission time: 0.0060641766 seconds.
+2024-11-30 16:19:23,757 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:19:24,486 - INFO - Server process started at 1732994364.4869144.
+2024-11-30 16:19:24,487 - INFO - Transmission started at 1732994364.4867651 accordingdly to client
+2024-11-30 16:19:24,487 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:19:24,492 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 962112 bytes.
+2024-11-30 16:19:24,492 - INFO - Transmission and server process ended at 1732994364.492975.
+2024-11-30 16:19:24,493 - INFO - Total transmission time: 0.0062098503 seconds.
+2024-11-30 16:19:25,249 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:19:25,864 - INFO - Server process started at 1732994365.8646402.
+2024-11-30 16:19:25,865 - INFO - Transmission started at 1732994365.8598907 accordingdly to client
+2024-11-30 16:19:25,865 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:19:25,879 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 1000000 bytes.
+2024-11-30 16:19:25,879 - INFO - Transmission and server process ended at 1732994365.879123.
+2024-11-30 16:19:25,879 - INFO - Total transmission time: 0.0192322731 seconds.
+2024-11-30 16:19:26,688 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:19:27,276 - INFO - Server process started at 1732994367.276806.
+2024-11-30 16:19:27,276 - INFO - Transmission started at 1732994367.2766113 accordingdly to client
+2024-11-30 16:19:27,277 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:19:27,280 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 910912 bytes.
+2024-11-30 16:19:27,280 - INFO - Transmission and server process ended at 1732994367.280633.
+2024-11-30 16:19:27,280 - INFO - Total transmission time: 0.0040216446 seconds.
+2024-11-30 16:19:28,058 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:19:28,706 - INFO - Server process started at 1732994368.7062168.
+2024-11-30 16:19:28,706 - INFO - Transmission started at 1732994368.706031 accordingdly to client
+2024-11-30 16:19:28,706 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:19:28,710 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 747072 bytes.
+2024-11-30 16:19:28,710 - INFO - Transmission and server process ended at 1732994368.7107005.
+2024-11-30 16:19:28,710 - INFO - Total transmission time: 0.0046694279 seconds.
+2024-11-30 16:19:29,515 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:19:30,044 - INFO - Server process started at 1732994370.0444014.
+2024-11-30 16:19:30,044 - INFO - Transmission started at 1732994370.0442367 accordingdly to client
+2024-11-30 16:19:30,044 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:19:30,048 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 689728 bytes.
+2024-11-30 16:19:30,048 - INFO - Transmission and server process ended at 1732994370.048216.
+2024-11-30 16:19:30,048 - INFO - Total transmission time: 0.0039794445 seconds.
+2024-11-30 16:19:30,924 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:19:31,484 - INFO - Server process started at 1732994371.4847841.
+2024-11-30 16:19:31,484 - INFO - Transmission started at 1732994371.4845698 accordingdly to client
+2024-11-30 16:19:31,484 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:19:31,488 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 934464 bytes.
+2024-11-30 16:19:31,488 - INFO - Transmission and server process ended at 1732994371.488252.
+2024-11-30 16:19:31,488 - INFO - Total transmission time: 0.0036821365 seconds.
+2024-11-30 16:20:51,229 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:20:52,119 - INFO - Server process started at 1732994452.1193416.
+2024-11-30 16:20:52,119 - INFO - Transmission started at 1732994452.1191423 accordingdly to client
+2024-11-30 16:20:52,119 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:20:52,122 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 972352 bytes.
+2024-11-30 16:20:52,122 - INFO - Transmission and server process ended at 1732994452.1227489.
+2024-11-30 16:20:52,122 - INFO - Total transmission time: 0.0036065578 seconds.
+2024-11-30 16:20:53,776 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:20:54,701 - INFO - Server process started at 1732994454.7013903.
+2024-11-30 16:20:54,701 - INFO - Transmission started at 1732994454.701104 accordingdly to client
+2024-11-30 16:20:54,701 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:20:54,707 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 947776 bytes.
+2024-11-30 16:20:54,707 - INFO - Transmission and server process ended at 1732994454.7074184.
+2024-11-30 16:20:54,707 - INFO - Total transmission time: 0.0063145161 seconds.
+2024-11-30 16:20:55,749 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:20:56,355 - INFO - Server process started at 1732994456.3557668.
+2024-11-30 16:20:56,355 - INFO - Transmission started at 1732994456.3555896 accordingdly to client
+2024-11-30 16:20:56,356 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:20:56,361 - INFO - File '1mb.txt' received successfully and saved at 'received_files/1mb.txt'. Size: 968256 bytes.
+2024-11-30 16:20:56,361 - INFO - Transmission and server process ended at 1732994456.3617108.
+2024-11-30 16:20:56,361 - INFO - Total transmission time: 0.0061211586 seconds.
+2024-11-30 16:48:42,040 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:48:44,814 - INFO - Server process started at 1732996124.8146775.
+2024-11-30 16:48:44,814 - INFO - Transmission started at 1732996124.8145354 accordingdly to client
+2024-11-30 16:48:44,814 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:48:46,793 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9721472 bytes.
+2024-11-30 16:48:46,793 - INFO - Transmission and server process ended at 1732996126.7936747.
+2024-11-30 16:48:46,794 - INFO - Total transmission time: 1.9791393280 seconds.
+2024-11-30 16:48:48,143 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:48:48,782 - INFO - Server process started at 1732996128.782481.
+2024-11-30 16:48:48,782 - INFO - Transmission started at 1732996128.7822766 accordingdly to client
+2024-11-30 16:48:48,782 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:48:50,046 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9481856 bytes.
+2024-11-30 16:48:50,046 - INFO - Transmission and server process ended at 1732996130.0465736.
+2024-11-30 16:48:50,046 - INFO - Total transmission time: 1.2642970085 seconds.
+2024-11-30 16:48:51,820 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:48:52,569 - INFO - Server process started at 1732996132.5692465.
+2024-11-30 16:48:52,569 - INFO - Transmission started at 1732996132.5690842 accordingdly to client
+2024-11-30 16:48:52,569 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:48:53,353 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9589376 bytes.
+2024-11-30 16:48:53,353 - INFO - Transmission and server process ended at 1732996133.353495.
+2024-11-30 16:48:53,353 - INFO - Total transmission time: 0.7844107151 seconds.
+2024-11-30 16:48:54,296 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:48:55,040 - INFO - Server process started at 1732996135.0399892.
+2024-11-30 16:48:55,040 - INFO - Transmission started at 1732996135.0398283 accordingdly to client
+2024-11-30 16:48:55,040 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:48:55,972 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9607808 bytes.
+2024-11-30 16:48:55,972 - INFO - Transmission and server process ended at 1732996135.9723735.
+2024-11-30 16:48:55,972 - INFO - Total transmission time: 0.9325451851 seconds.
+2024-11-30 16:48:56,717 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:48:57,450 - INFO - Server process started at 1732996137.4500148.
+2024-11-30 16:48:57,450 - INFO - Transmission started at 1732996137.4498234 accordingdly to client
+2024-11-30 16:48:57,450 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:48:58,667 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9620096 bytes.
+2024-11-30 16:48:58,667 - INFO - Transmission and server process ended at 1732996138.6674745.
+2024-11-30 16:48:58,667 - INFO - Total transmission time: 1.2176511288 seconds.
+2024-11-30 16:48:59,383 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:49:00,496 - INFO - Server process started at 1732996140.4965901.
+2024-11-30 16:49:00,496 - INFO - Transmission started at 1732996140.4964316 accordingdly to client
+2024-11-30 16:49:00,496 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:49:02,255 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9247360 bytes.
+2024-11-30 16:49:02,255 - INFO - Transmission and server process ended at 1732996142.2556026.
+2024-11-30 16:49:02,255 - INFO - Total transmission time: 1.7591710091 seconds.
+2024-11-30 16:49:03,110 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:49:03,906 - INFO - Server process started at 1732996143.9062371.
+2024-11-30 16:49:03,906 - INFO - Transmission started at 1732996143.9060433 accordingdly to client
+2024-11-30 16:49:03,906 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:49:05,971 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9601664 bytes.
+2024-11-30 16:49:05,971 - INFO - Transmission and server process ended at 1732996145.9718413.
+2024-11-30 16:49:05,972 - INFO - Total transmission time: 2.0657980442 seconds.
+2024-11-30 16:49:06,805 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:49:07,530 - INFO - Server process started at 1732996147.5300782.
+2024-11-30 16:49:07,530 - INFO - Transmission started at 1732996147.52992 accordingdly to client
+2024-11-30 16:49:07,530 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:49:09,160 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 6804480 bytes.
+2024-11-30 16:49:09,160 - INFO - Transmission and server process ended at 1732996149.1605628.
+2024-11-30 16:49:09,161 - INFO - Total transmission time: 1.6306426525 seconds.
+2024-11-30 16:49:10,014 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:49:10,761 - INFO - Server process started at 1732996150.7612665.
+2024-11-30 16:49:10,761 - INFO - Transmission started at 1732996150.7610962 accordingdly to client
+2024-11-30 16:49:10,761 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:49:12,847 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9705088 bytes.
+2024-11-30 16:49:12,847 - INFO - Transmission and server process ended at 1732996152.8476326.
+2024-11-30 16:49:12,847 - INFO - Total transmission time: 2.0865364075 seconds.
+2024-11-30 16:49:16,767 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:49:17,431 - INFO - Server process started at 1732996157.4311225.
+2024-11-30 16:49:17,431 - INFO - Transmission started at 1732996157.4309149 accordingdly to client
+2024-11-30 16:49:17,431 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:49:19,841 - INFO - File '10mb.txt' received successfully and saved at 'received_files/10mb.txt'. Size: 9638528 bytes.
+2024-11-30 16:49:19,841 - INFO - Transmission and server process ended at 1732996159.8417864.
+2024-11-30 16:49:19,842 - INFO - Total transmission time: 2.4108715057 seconds.
+2024-11-30 16:49:51,527 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:49:52,102 - INFO - Server process started at 1732996192.1027293.
+2024-11-30 16:49:52,236 - INFO - Transmission started at 1732996192.102564 accordingdly to client
+2024-11-30 16:49:52,237 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:50:03,002 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 49178880 bytes.
+2024-11-30 16:50:03,002 - INFO - Transmission and server process ended at 1732996203.0025425.
+2024-11-30 16:50:03,002 - INFO - Total transmission time: 10.8999783993 seconds.
+2024-11-30 16:50:03,886 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:50:05,001 - INFO - Server process started at 1732996205.001351.
+2024-11-30 16:50:05,001 - INFO - Transmission started at 1732996205.001162 accordingdly to client
+2024-11-30 16:50:05,001 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:50:32,854 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 97626368 bytes.
+2024-11-30 16:50:32,855 - INFO - Transmission and server process ended at 1732996232.855401.
+2024-11-30 16:50:32,855 - INFO - Total transmission time: 27.8542389870 seconds.
+2024-11-30 16:50:34,290 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:50:35,567 - INFO - Server process started at 1732996235.567025.
+2024-11-30 16:50:35,567 - INFO - Transmission started at 1732996235.5667574 accordingdly to client
+2024-11-30 16:50:35,567 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:50:58,231 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 94781696 bytes.
+2024-11-30 16:50:58,231 - INFO - Transmission and server process ended at 1732996258.2313564.
+2024-11-30 16:50:58,231 - INFO - Total transmission time: 22.6645989418 seconds.
+2024-11-30 16:50:59,558 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:51:00,384 - INFO - Server process started at 1732996260.3843942.
+2024-11-30 16:51:00,384 - INFO - Transmission started at 1732996260.3842142 accordingdly to client
+2024-11-30 16:51:00,384 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:51:19,776 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 88387840 bytes.
+2024-11-30 16:51:19,776 - INFO - Transmission and server process ended at 1732996279.7765617.
+2024-11-30 16:51:19,776 - INFO - Total transmission time: 19.3923475742 seconds.
+2024-11-30 16:51:21,088 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:51:21,839 - INFO - Server process started at 1732996281.8393967.
+2024-11-30 16:51:21,839 - INFO - Transmission started at 1732996281.8392327 accordingdly to client
+2024-11-30 16:51:21,839 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:51:45,335 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 96005376 bytes.
+2024-11-30 16:51:45,336 - INFO - Transmission and server process ended at 1732996305.3361058.
+2024-11-30 16:51:45,336 - INFO - Total transmission time: 23.4968731403 seconds.
+2024-11-30 16:51:46,333 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:51:47,147 - INFO - Server process started at 1732996307.1470072.
+2024-11-30 16:51:47,147 - INFO - Transmission started at 1732996307.146854 accordingdly to client
+2024-11-30 16:51:47,147 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:52:14,117 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 86951168 bytes.
+2024-11-30 16:52:14,117 - INFO - Transmission and server process ended at 1732996334.1177902.
+2024-11-30 16:52:14,118 - INFO - Total transmission time: 26.9709362984 seconds.
+2024-11-30 16:52:16,615 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:52:17,200 - INFO - Server process started at 1732996337.2000608.
+2024-11-30 16:52:17,200 - INFO - Transmission started at 1732996337.199839 accordingdly to client
+2024-11-30 16:52:17,200 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:52:38,881 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 94817536 bytes.
+2024-11-30 16:52:38,882 - INFO - Transmission and server process ended at 1732996358.881934.
+2024-11-30 16:52:38,882 - INFO - Total transmission time: 21.6820948124 seconds.
+2024-11-30 16:52:40,647 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:52:41,912 - INFO - Server process started at 1732996361.9124897.
+2024-11-30 16:52:41,912 - INFO - Transmission started at 1732996361.9122593 accordingdly to client
+2024-11-30 16:52:41,912 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:53:03,890 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 95827200 bytes.
+2024-11-30 16:53:03,891 - INFO - Transmission and server process ended at 1732996383.8913321.
+2024-11-30 16:53:03,891 - INFO - Total transmission time: 21.9790728092 seconds.
+2024-11-30 16:53:04,918 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:53:08,601 - INFO - Server process started at 1732996388.6013303.
+2024-11-30 16:53:08,601 - INFO - Transmission started at 1732996388.6011775 accordingdly to client
+2024-11-30 16:53:08,601 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:53:28,678 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 95303936 bytes.
+2024-11-30 16:53:28,678 - INFO - Transmission and server process ended at 1732996408.6787136.
+2024-11-30 16:53:28,679 - INFO - Total transmission time: 20.0775361061 seconds.
+2024-11-30 16:53:46,668 - INFO - UDP Server listening on 127.0.0.1:2222
+2024-11-30 16:53:47,830 - INFO - Server process started at 1732996427.8303106.
+2024-11-30 16:53:47,830 - INFO - Transmission started at 1732996427.830135 accordingdly to client
+2024-11-30 16:53:47,830 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:54:20,564 - INFO - File '100mb.txt' received successfully and saved at 'received_files/100mb.txt'. Size: 96126208 bytes.
+2024-11-30 16:54:20,564 - INFO - Transmission and server process ended at 1732996460.5647318.
+2024-11-30 16:54:20,565 - INFO - Total transmission time: 32.7345967293 seconds.
+2024-11-30 19:36:11,303 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 19:37:25,560 - INFO - Connected by ('127.0.0.1', 47832).
+2024-11-30 19:37:25,561 - INFO - Server process started at 1733006245.5614824.
+2024-11-30 19:37:25,562 - INFO - Transmission started at 1733006245.560826 accordingdly to client
+2024-11-30 19:37:25,661 - INFO - Receiving file '512b.txt'.
+2024-11-30 19:37:25,763 - INFO - File '512b.txt' received and saved at 'received_files/512b.txt'.
+2024-11-30 19:37:25,764 - INFO - Transmission and server process ended at 1733006245.7641625.
+2024-11-30 19:37:25,764 - INFO - Total transmission time: 0.0033364773 seconds.

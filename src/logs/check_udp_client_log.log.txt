@@ -1,0 +1,199 @@
+2024-11-30 16:09:17,711 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:17,711 - INFO - Transmission started at 1732993757.7119544.
+2024-11-30 16:09:17,712 - INFO - Transmission ended at 1732993757.7121227.
+2024-11-30 16:09:17,712 - INFO - Total transmission time: 0.0001683235 seconds.
+2024-11-30 16:09:19,441 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:19,441 - INFO - Transmission started at 1732993759.441325.
+2024-11-30 16:09:19,441 - INFO - Transmission ended at 1732993759.4415116.
+2024-11-30 16:09:19,441 - INFO - Total transmission time: 0.0001866817 seconds.
+2024-11-30 16:09:21,136 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:21,136 - INFO - Transmission started at 1732993761.1361465.
+2024-11-30 16:09:21,136 - INFO - Transmission ended at 1732993761.1363258.
+2024-11-30 16:09:21,136 - INFO - Total transmission time: 0.0001792908 seconds.
+2024-11-30 16:09:22,586 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:22,586 - INFO - Transmission started at 1732993762.5865662.
+2024-11-30 16:09:22,586 - INFO - Transmission ended at 1732993762.5867436.
+2024-11-30 16:09:22,586 - INFO - Total transmission time: 0.0001773834 seconds.
+2024-11-30 16:09:24,151 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:24,151 - INFO - Transmission started at 1732993764.151855.
+2024-11-30 16:09:24,152 - INFO - Transmission ended at 1732993764.1520267.
+2024-11-30 16:09:24,152 - INFO - Total transmission time: 0.0001716614 seconds.
+2024-11-30 16:09:25,537 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:25,537 - INFO - Transmission started at 1732993765.5375748.
+2024-11-30 16:09:25,537 - INFO - Transmission ended at 1732993765.537757.
+2024-11-30 16:09:25,537 - INFO - Total transmission time: 0.0001821518 seconds.
+2024-11-30 16:09:26,905 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:26,905 - INFO - Transmission started at 1732993766.905602.
+2024-11-30 16:09:26,997 - INFO - Transmission ended at 1732993766.9971225.
+2024-11-30 16:09:26,997 - INFO - Total transmission time: 0.0915205479 seconds.
+2024-11-30 16:09:28,290 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:28,290 - INFO - Transmission started at 1732993768.29092.
+2024-11-30 16:09:28,291 - INFO - Transmission ended at 1732993768.2911026.
+2024-11-30 16:09:28,291 - INFO - Total transmission time: 0.0001826286 seconds.
+2024-11-30 16:09:29,737 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:29,737 - INFO - Transmission started at 1732993769.7375531.
+2024-11-30 16:09:29,737 - INFO - Transmission ended at 1732993769.7377295.
+2024-11-30 16:09:29,737 - INFO - Total transmission time: 0.0001764297 seconds.
+2024-11-30 16:09:31,239 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:09:31,239 - INFO - Transmission started at 1732993771.2396545.
+2024-11-30 16:09:31,239 - INFO - Transmission ended at 1732993771.239821.
+2024-11-30 16:09:31,239 - INFO - Total transmission time: 0.0001664162 seconds.
+2024-11-30 16:16:31,398 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:31,398 - INFO - Transmission started at 1732994191.3985045.
+2024-11-30 16:16:31,400 - INFO - Transmission ended at 1732994191.4002676.
+2024-11-30 16:16:31,400 - INFO - Total transmission time: 0.0017631054 seconds.
+2024-11-30 16:16:33,295 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:33,296 - INFO - Transmission started at 1732994193.2960465.
+2024-11-30 16:16:33,298 - INFO - Transmission ended at 1732994193.2987375.
+2024-11-30 16:16:33,298 - INFO - Total transmission time: 0.0026910305 seconds.
+2024-11-30 16:16:34,804 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:34,804 - INFO - Transmission started at 1732994194.804281.
+2024-11-30 16:16:34,806 - INFO - Transmission ended at 1732994194.8060892.
+2024-11-30 16:16:34,806 - INFO - Total transmission time: 0.0018081665 seconds.
+2024-11-30 16:16:36,415 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:36,415 - INFO - Transmission started at 1732994196.4157245.
+2024-11-30 16:16:36,418 - INFO - Transmission ended at 1732994196.418664.
+2024-11-30 16:16:36,418 - INFO - Total transmission time: 0.0029394627 seconds.
+2024-11-30 16:16:37,943 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:37,944 - INFO - Transmission started at 1732994197.9440322.
+2024-11-30 16:16:37,945 - INFO - Transmission ended at 1732994197.9458783.
+2024-11-30 16:16:37,945 - INFO - Total transmission time: 0.0018460751 seconds.
+2024-11-30 16:16:39,403 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:39,403 - INFO - Transmission started at 1732994199.4035687.
+2024-11-30 16:16:39,405 - INFO - Transmission ended at 1732994199.4053252.
+2024-11-30 16:16:39,405 - INFO - Total transmission time: 0.0017564297 seconds.
+2024-11-30 16:16:41,006 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:41,006 - INFO - Transmission started at 1732994201.0063615.
+2024-11-30 16:16:41,008 - INFO - Transmission ended at 1732994201.008156.
+2024-11-30 16:16:41,008 - INFO - Total transmission time: 0.0017945766 seconds.
+2024-11-30 16:16:42,651 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:42,651 - INFO - Transmission started at 1732994202.6517324.
+2024-11-30 16:16:42,654 - INFO - Transmission ended at 1732994202.654824.
+2024-11-30 16:16:42,654 - INFO - Total transmission time: 0.0030915737 seconds.
+2024-11-30 16:16:44,243 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:44,243 - INFO - Transmission started at 1732994204.2439451.
+2024-11-30 16:16:44,245 - INFO - Transmission ended at 1732994204.2457163.
+2024-11-30 16:16:44,245 - INFO - Total transmission time: 0.0017712116 seconds.
+2024-11-30 16:16:45,762 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:16:45,762 - INFO - Transmission started at 1732994205.7626185.
+2024-11-30 16:16:45,764 - INFO - Transmission ended at 1732994205.7644236.
+2024-11-30 16:16:45,764 - INFO - Total transmission time: 0.0018050671 seconds.
+2024-11-30 16:21:49,925 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:21:49,925 - INFO - Transmission started at 1732994509.9258106.
+2024-11-30 16:21:49,929 - INFO - Transmission ended at 1732994509.9291196.
+2024-11-30 16:21:49,929 - INFO - Total transmission time: 0.0033090115 seconds.
+2024-11-30 16:21:51,485 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:21:51,485 - INFO - Transmission started at 1732994511.4852352.
+2024-11-30 16:21:51,488 - INFO - Transmission ended at 1732994511.488681.
+2024-11-30 16:21:51,488 - INFO - Total transmission time: 0.0034458637 seconds.
+2024-11-30 16:21:52,915 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:21:52,915 - INFO - Transmission started at 1732994512.9151952.
+2024-11-30 16:21:52,918 - INFO - Transmission ended at 1732994512.918547.
+2024-11-30 16:21:52,918 - INFO - Total transmission time: 0.0033516884 seconds.
+2024-11-30 16:21:54,341 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:21:54,341 - INFO - Transmission started at 1732994514.341352.
+2024-11-30 16:21:54,346 - INFO - Transmission ended at 1732994514.3464572.
+2024-11-30 16:21:54,346 - INFO - Total transmission time: 0.0051052570 seconds.
+2024-11-30 16:21:55,724 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:21:55,724 - INFO - Transmission started at 1732994515.7248487.
+2024-11-30 16:21:55,728 - INFO - Transmission ended at 1732994515.7281616.
+2024-11-30 16:21:55,728 - INFO - Total transmission time: 0.0033128262 seconds.
+2024-11-30 16:28:20,729 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:28:20,729 - INFO - Transmission started at 1732994900.7295659.
+2024-11-30 16:28:20,734 - INFO - Transmission ended at 1732994900.734869.
+2024-11-30 16:28:20,735 - INFO - Total transmission time: 0.0053031445 seconds.
+2024-11-30 16:28:22,241 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:28:22,241 - INFO - Transmission started at 1732994902.241186.
+2024-11-30 16:28:22,244 - INFO - Transmission ended at 1732994902.2444756.
+2024-11-30 16:28:22,244 - INFO - Total transmission time: 0.0032896996 seconds.
+2024-11-30 16:28:23,693 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:28:23,693 - INFO - Transmission started at 1732994903.6937504.
+2024-11-30 16:28:23,697 - INFO - Transmission ended at 1732994903.697145.
+2024-11-30 16:28:23,697 - INFO - Total transmission time: 0.0033946037 seconds.
+2024-11-30 16:28:25,223 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:28:25,223 - INFO - Transmission started at 1732994905.2231956.
+2024-11-30 16:28:25,226 - INFO - Transmission ended at 1732994905.2267668.
+2024-11-30 16:28:25,226 - INFO - Total transmission time: 0.0035712719 seconds.
+2024-11-30 16:28:26,753 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:28:26,754 - INFO - Transmission started at 1732994906.7539957.
+2024-11-30 16:28:26,760 - INFO - Transmission ended at 1732994906.7599866.
+2024-11-30 16:28:26,760 - INFO - Total transmission time: 0.0059909821 seconds.
+2024-11-30 16:41:41,723 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:41:41,723 - INFO - Transmission started at 1732995701.7235277.
+2024-11-30 16:41:41,766 - INFO - Transmission ended at 1732995701.766767.
+2024-11-30 16:41:41,766 - INFO - Total transmission time: 0.0432393551 seconds.
+2024-11-30 16:41:45,151 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:41:45,151 - INFO - Transmission started at 1732995705.1517138.
+2024-11-30 16:41:45,182 - INFO - Transmission ended at 1732995705.182636.
+2024-11-30 16:41:45,182 - INFO - Total transmission time: 0.0309221745 seconds.
+2024-11-30 16:41:47,372 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:41:47,372 - INFO - Transmission started at 1732995707.3721933.
+2024-11-30 16:41:47,405 - INFO - Transmission ended at 1732995707.4056191.
+2024-11-30 16:41:47,405 - INFO - Total transmission time: 0.0334258080 seconds.
+2024-11-30 16:41:49,291 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:41:49,291 - INFO - Transmission started at 1732995709.2917998.
+2024-11-30 16:41:49,323 - INFO - Transmission ended at 1732995709.3229556.
+2024-11-30 16:41:49,323 - INFO - Total transmission time: 0.0311558247 seconds.
+2024-11-30 16:41:52,227 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:41:52,228 - INFO - Transmission started at 1732995712.2279892.
+2024-11-30 16:41:52,258 - INFO - Transmission ended at 1732995712.2587426.
+2024-11-30 16:41:52,258 - INFO - Total transmission time: 0.0307533741 seconds.
+2024-11-30 16:41:54,189 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:41:54,189 - INFO - Transmission started at 1732995714.1891239.
+2024-11-30 16:41:54,247 - INFO - Transmission ended at 1732995714.2474892.
+2024-11-30 16:41:54,247 - INFO - Total transmission time: 0.0583653450 seconds.
+2024-11-30 16:41:56,355 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:41:56,355 - INFO - Transmission started at 1732995716.355244.
+2024-11-30 16:41:56,386 - INFO - Transmission ended at 1732995716.386659.
+2024-11-30 16:41:56,386 - INFO - Total transmission time: 0.0314149857 seconds.
+2024-11-30 16:41:58,373 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:41:58,373 - INFO - Transmission started at 1732995718.373458.
+2024-11-30 16:41:58,405 - INFO - Transmission ended at 1732995718.4059057.
+2024-11-30 16:41:58,406 - INFO - Total transmission time: 0.0324478149 seconds.
+2024-11-30 16:42:01,524 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:42:01,524 - INFO - Transmission started at 1732995721.5246322.
+2024-11-30 16:42:01,784 - INFO - Transmission ended at 1732995721.78399.
+2024-11-30 16:42:01,784 - INFO - Total transmission time: 0.2593576908 seconds.
+2024-11-30 16:42:04,977 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:42:04,977 - INFO - Transmission started at 1732995724.9778025.
+2024-11-30 16:42:05,009 - INFO - Transmission ended at 1732995725.0089867.
+2024-11-30 16:42:05,009 - INFO - Total transmission time: 0.0311841965 seconds.
+2024-11-30 16:43:12,908 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:43:12,908 - INFO - Transmission started at 1732995792.9084272.
+2024-11-30 16:43:13,214 - INFO - Transmission ended at 1732995793.2140307.
+2024-11-30 16:43:13,214 - INFO - Total transmission time: 0.3056035042 seconds.
+2024-11-30 16:43:43,230 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:43:43,230 - INFO - Transmission started at 1732995823.2309415.
+2024-11-30 16:43:43,527 - INFO - Transmission ended at 1732995823.52744.
+2024-11-30 16:43:43,527 - INFO - Total transmission time: 0.2964985371 seconds.2024-11-30 16:44:51,870 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:44:51,870 - INFO - Transmission started at 1732995891.8706388.
+2024-11-30 16:44:52,184 - INFO - Transmission ended at 1732995892.1843805.
+2024-11-30 16:44:52,184 - INFO - Total transmission time: 0.3137416840 seconds.
+2024-11-30 16:45:10,190 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:45:10,190 - INFO - Transmission started at 1732995910.1907704.
+2024-11-30 16:45:10,525 - INFO - Transmission ended at 1732995910.5258162.
+2024-11-30 16:45:10,525 - INFO - Total transmission time: 0.3350458145 seconds.
+2024-11-30 16:45:35,899 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:45:35,899 - INFO - Transmission started at 1732995935.899295.
+2024-11-30 16:45:36,220 - INFO - Transmission ended at 1732995936.2204201.
+2024-11-30 16:45:36,220 - INFO - Total transmission time: 0.3211250305 seconds.
+2024-11-30 16:45:46,985 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:45:46,986 - INFO - Transmission started at 1732995946.9860597.
+2024-11-30 16:45:47,333 - INFO - Transmission ended at 1732995947.3329573.
+2024-11-30 16:45:47,333 - INFO - Total transmission time: 0.3468976021 seconds.
+2024-11-30 16:46:12,536 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:46:12,536 - INFO - Transmission started at 1732995972.536524.
+2024-11-30 16:46:12,868 - INFO - Transmission ended at 1732995972.8687835.
+2024-11-30 16:46:12,868 - INFO - Total transmission time: 0.3322594166 seconds.
+2024-11-30 16:46:36,583 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:46:36,583 - INFO - Transmission started at 1732995996.5837054.
+2024-11-30 16:46:36,907 - INFO - Transmission ended at 1732995996.9072022.
+2024-11-30 16:46:36,907 - INFO - Total transmission time: 0.3234968185 seconds.
+2024-11-30 16:47:01,713 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:47:01,713 - INFO - Transmission started at 1732996021.7135408.
+2024-11-30 16:47:02,028 - INFO - Transmission ended at 1732996022.0288591.
+2024-11-30 16:47:02,028 - INFO - Total transmission time: 0.3153183460 seconds.
+2024-11-30 16:47:25,171 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:47:25,171 - INFO - Transmission started at 1732996045.1716845.
+2024-11-30 16:47:25,489 - INFO - Transmission ended at 1732996045.4894495.
+2024-11-30 16:47:25,489 - INFO - Total transmission time: 0.3177649975 seconds.

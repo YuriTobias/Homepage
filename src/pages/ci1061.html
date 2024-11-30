@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Yuri Tobias's Page</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="/src/styles/reset.css" />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+            integrity="sha512-Auj6EQnZw9fN1ucWnFyLv1hlfqGb1eVY1VlFmIhC+JlIu7/5vxEULu9a0fX2k0+5Ozuf5emvqfoXDIxYi3Tz3Q=="
+            crossorigin="anonymous"
+        />
+        <link rel="stylesheet" href="/src/styles/vars.css" />
+        <link rel="stylesheet" href="/src/styles/ci1061.css" />
+    </head>
+    <body>
+        <div class="main-content container text-center">
+            <div class="row custom-row justify-content-center">
+                <!-- Main section -->
+                <div class="col-10 custom-col d-flex align-items-lg-center">
+                    <main class="main-section d-flex flex-column justify-content-lg-between h-100">
+                        <div class="row py-lg-4 justify-content-center">
+                            <div class="col-12 col-lg-9 d-flex justify-content-between">
+                                <a class="nav-link rounded-2 p-2" href="#tcpvsudp">TCP vs UDP</a>
+                                <a class="nav-link rounded-2 p-2" href="#testcases">Casos de Teste</a>
+                                <a class="nav-link rounded-2 p-2" href="#results">Resultados</a>
+                                <a class="nav-link rounded-2 p-2" href="#codeandlogs">Códigos & Logs</a>
+                                <a class="nav-link rounded-2 p-2" href="#github">GitHub</a>
+                            </div>
+                        </div>
+                        <div class="row pb-lg-5 justify-content-center">
+                            <section id="tcpvsudp" class="pb-2 pb-lg-5">
+                                <div class="d-flex justify-content-center py-5">
+                                    <h1 class="title-about pe-3">TCP vs UDP:</h1>
+                                    <h1 class="title-me">A Verdade</h1>
+                                </div>
+                                <p class="about-text">
+                                    Dado o fato de que o protocolo TCP apresenta um desempenho que pode ser considerado surpreendente, tendo
+                                    em vista todos os controles que o mesmo faz, oferecendo uma estimativa de aproximadamente 90% da taxa
+                                    nominal da rede, ou seja, dada a execução de uma aplicação sobre TCP/IP em uma rede de 100Gbps, obtemos
+                                    uma vazão efetiva (para a aplicação) de 90Gbps. E, em contra partida, sabemos que o UDP não faz controle
+                                    nenhum, sendo mais adequado em situações que exigem desempenho extremo, já que o mesmo apenas acresta
+                                    portas IP, isto é, permite a comunicação de processos sobre o IP. O último possui também o checksum
+                                    completo, que é opcional e normalmente ativado por padrão! Levando em consideração tais informações, o
+                                    presente trabalho busca compreender o quão melhor é o TCP em relação ao UDP! Afinal, um tende a ser mais
+                                    rápido sem fornecer "segura" aos dados, ao passo que o outro tende a ser um pouco mais lento, mas
+                                    garante que os dados vão ser entregues e na mesma ordem em que foram enviados, já que é confiável e
+                                    orientado a conexão.
+                                </p>
+                            </section>
+                            <section id="testcases" class="pb-2 pb-lg-5">
+                                <h1 class="title-me pb-5">Casos de Teste</h1>
+                                <p class="about-text">
+                                    Afinal, como fazer essa medida? Bom, no nosso caso, optamos por realizar dois casos de teste: 1.
+                                    Transmissão de arquivos entre uma máquina comum e um microprocessador; e, 2. Transmissão de arquivos com
+                                    e sem checksum habilitado, no caso do UDP. Para isso, inicialmente organizamos a forma como iríamos
+                                    desenvolver todo o processo, que se deu da seguinte forma:
+                                </p>
+
+                                <h1 class="title-me pb-5">Teste de Perda de Pacotes</h1>
+
+                                <p>
+                                    O uso de microcontroladores, como o ESP32, tem se tornado cada vez mais comum em aplicações de IoT,
+                                    robótica, drones, entre outras. Esses dispositivos são programados para se comunicar com um computador,
+                                    seja para enviar dados ou receber comandos. A comunicação entre eles frequentemente é feita via Wi-Fi,
+                                    utilizando a internet como meio de transmissão.
+                                </p>
+                                <p>
+                                    Neste projeto, testamos a perda de pacotes entre um ESP32 e um computador utilizando os protocolos UDP e
+                                    TCP. Nosso objetivo é analisar se a perda de pacotes é significativa e, em caso afirmativo, propor
+                                    soluções para minimizar os impactos dessa perda na comunicação.
+                                </p>
+                                <figure>
+                                    <img src="../assets/esp32.webp" alt="Foto de um ESP32" />
+                                    <figcaption>Microcontrolador ESP32 utilizado no experimento</figcaption>
+                                </figure>
+
+                                <h1 class="title-me pb-5">Descrição do Teste</h1>
+                                <p>
+                                    O teste consiste em criar um servidor no ESP32 e um cliente no computador. Uma possível aplicação
+                                    prática seria o ESP32 como interface para um braço robótico e o computador como controlador desse braço,
+                                    uma configuração comum em telecirurgia, por exemplo. O computador envia comandos ao ESP32, que, por sua
+                                    vez, retorna dados de sensores.
+                                </p>
+                                <p>
+                                    O ESP32 foi programado em C++ utilizando a biblioteca Arduino, com a ferramenta PlatformIO. Já o cliente
+                                    no computador foi programado em Python. O ESP32 foi conectado à rede via Wi-Fi, enquanto o computador
+                                    utilizou uma conexão via cabo Ethernet.
+                                </p>
+
+                                <h1 class="title-me pb-5">Teste com UDP</h1>
+                                <p>
+                                    Nesse experimento, enviamos um número determinado de pacotes UDP entre o ESP32 e o computador,
+                                    monitorando quantos pacotes foram perdidos durante a transmissão. O objetivo era entender o impacto da
+                                    perda de pacotes nesse tipo de comunicação.
+                                </p>
+                                <p>
+                                    Foram enviados 1.000 pacotes do computador para o ESP32. Destes, apenas 78 chegaram, o que representa
+                                    uma perda de 92,2% dos pacotes. Esse nível de perda pode comprometer seriamente a funcionalidade de
+                                    sistemas dependentes de dados em tempo real.
+                                </p>
+                                <div class="grafico">
+                                    <img src="grafico_delay.png" alt="Gráfico do delay de processamento" />
+                                    <figcaption>Gráfico do delay de processamento dos pacotes UDP</figcaption>
+                                </div>
+                                <p>
+                                    O gráfico acima mostra o delay de processamento de cada pacote. Observamos que o delay médio foi de 0,69
+                                    ms, com picos de delay de aproximadamente 90 ms ocorrendo em intervalos de cerca de 720 ms.
+                                </p>
+                            </section>
+                            <section id="results" class="pb-2 pb-lg-5">
+                                <h1 class="title-me pb-5">Resultados</h1>
+                                <p class="about-text">Ainda não presente</p>
+                            </section>
+                            <section id="codeandlogs" class="pb-2 pb-lg-5">
+                                <h1 class="title-me pb-5">Códigos & Logs</h1>
+                                <p class="about-text pb-3">
+                                    A tabela a seguir contém todos os códigos fontes que também podem ser encontrados no link para o
+                                    repositório do GitHub que se encontra na próxima seção.
+                                </p>
+                                <h2 class="py-2">Códigos usados no caso do Checksum</h2>
+                                <table>
+                                    <tr>
+                                        <th>File name</th>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../fonts/client.py.txt" style="color: #e0e1dd">client.py.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../fonts/server.py.txt" style="color: #e0e1dd">server.py.txt</a></td>
+                                    </tr>
+                                </table>
+                                <h2 class="py-2">Códigos usados no caso da transferência de arquivo</h2>
+                                <table>
+                                    <tr>
+                                        <th>File name</th>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../fonts/client/__init__.py.txt" style="color: #e0e1dd">__init__.py.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../fonts/client/clientTCP.py.txt" style="color: #e0e1dd">clientTCP.py.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../fonts/client/clientUDP.py.txt" style="color: #e0e1dd">clientUDP.py.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="../fonts/client/detect_lost_packets.py.txt" style="color: #e0e1dd"
+                                                >detect_lost_packets.py.txt</a
+                                            >
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../fonts/client/process_log.py.txt" style="color: #e0e1dd">process_log.py.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="../fonts/client/readLogEsp32.py.txt" style="color: #e0e1dd">readLogEsp32.py.txt</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../fonts/client/requirements.txt" style="color: #e0e1dd">requirements.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../fonts/client/sniff.py.txt" style="color: #e0e1dd">sniff.py.txt</a></td>
+                                    </tr>
+                                </table>
+                                <p class="about-text py-3">
+                                    Os arquivos de log desempenham um papel fundamental na análise e validação dos resultados obtidos
+                                    durante comparações de programas ou processos. Neste trabalho, tais arquivos registram informações
+                                    relevantes que evidenciam a execução correta dos processos cliente/servidor, servindo como uma base
+                                    confiável para identificar e avaliar o desempenho ou as métricas em questão. Durante a realização de
+                                    testes exaustivos, esses registros permitiram alcançar maior clareza sobre o comportamento dos processos
+                                    em diferentes cenários. <br />A tabela a seguir apresenta todos os arquivos de log gerados ao longo das
+                                    execuções dos casos de teste, que foram essenciais para a construção dos gráficos apresentados na seção
+                                    anterior. Esses dados consolidam a análise e garantem a transparência e precisão dos resultados.
+                                </p>
+                                <h2 class="py-2">Logs do Checksum</h2>
+                                <table>
+                                    <tr>
+                                        <th>File name</th>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../logs/tcp_client_log.log.txt" style="color: #e0e1dd">tcp_client_log.log.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../logs/tcp_server_log.log.txt" style="color: #e0e1dd">tcp_server_log.log.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="../logs/check_udp_client_log.log.txt" style="color: #e0e1dd"
+                                                >check_udp_client_log.log.txt</a
+                                            >
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="../logs/check_udp_server_log.log.txt" style="color: #e0e1dd"
+                                                >check_udp_server_log.log.txt</a
+                                            >
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="../logs/nocheck_udp_client_log.log.txt" style="color: #e0e1dd"
+                                                >nocheck_udp_client_log.log.txt</a
+                                            >
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <a href="../logs/nocheck_udp_server_log.log.txt" style="color: #e0e1dd"
+                                                >nocheck_udp_server_log.log.txt</a
+                                            >
+                                        </td>
+                                    </tr>
+                                </table>
+                                <h2 class="py-2">Logs da transferência de arquivo</h2>
+                                <table>
+                                    <tr>
+                                        <th>File name</th>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../logs/esp32_log.txt" style="color: #e0e1dd">esp32_log.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../logs/esp32_log_udp.txt" style="color: #e0e1dd">esp32_log_udp.txt</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="../logs/esp32_log_udp_2.txt" style="color: #e0e1dd">esp32_log_udp_2.txt</a></td>
+                                    </tr>
+                                </table>
+                            </section>
+                            <section id="github" class="pb-2 pb-lg-5">
+                                <h1 class="title-me pb-5">Repositório do GitHub</h1>
+                                <p class="about-text">O trabalho em questão, desenvolvido pelos discentes abaixo:</p>
+                                <br />
+                                <ul>
+                                    <li>Mateus de Oliveira SIlva (GRR20205669)</li>
+                                    <li>Yuri Junqueira Tobias (GRR20211767)</li>
+                                </ul>
+                                <p class="py-2">
+                                    Pode ser encontrado
+                                    <a href="https://github.com/YuriTobias/CI1061" style="color: #e0e1dd">neste</a> repositório do GitHub
+                                </p>
+                            </section>
+                        </div>
+                        <div class="row d-none d-lg-flex">
+                            <div class="col-12 d-flex justify-content-end p-5">
+                                <a class="rocket-link rounded rounded-circle p-3" href="../../index.html">
+                                    <i class="fa-solid fa-house" style="color: #e0e1dd"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header border-0">
+                                <h1 class="modal-title fs-5" id="exampleModalLabel">
+                                    Hello, how u doing?! I hope well
+                                    <i class="fa-solid fa-face-smile-wink"></i>
+                                </h1>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">Feature not available yet <i class="fa-solid fa-face-sad-tear"></i></div>
+                            <div class="modal-footer border-0">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                                    Ok, no problem! <i class="fa-solid fa-face-smile"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="https://kit.fontawesome.com/b2532c021e.js" crossorigin="anonymous"></script>
+    </body>
+</html>

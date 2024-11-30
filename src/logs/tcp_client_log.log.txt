@@ -1,0 +1,250 @@
+2024-11-30 16:12:00,318 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:00,318 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:00,318 - INFO - Transmission started at 1732993920.3189085.
+2024-11-30 16:12:00,520 - INFO - Transmission ended at 1732993920.519935.
+2024-11-30 16:12:00,520 - INFO - Total transmission time: 0.0010264397 seconds.
+2024-11-30 16:12:04,163 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:04,163 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:04,163 - INFO - Transmission started at 1732993924.1633065.
+2024-11-30 16:12:04,364 - INFO - Transmission ended at 1732993924.3643136.
+2024-11-30 16:12:04,364 - INFO - Total transmission time: 0.0010071278 seconds.
+2024-11-30 16:12:07,738 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:07,738 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:07,738 - INFO - Transmission started at 1732993927.7383087.
+2024-11-30 16:12:07,939 - INFO - Transmission ended at 1732993927.9392912.
+2024-11-30 16:12:07,939 - INFO - Total transmission time: 0.0009825706 seconds.
+2024-11-30 16:12:09,583 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:09,584 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:09,584 - INFO - Transmission started at 1732993929.584099.
+2024-11-30 16:12:09,785 - INFO - Transmission ended at 1732993929.785158.
+2024-11-30 16:12:09,785 - INFO - Total transmission time: 0.0010588646 seconds.
+2024-11-30 16:12:11,314 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:11,314 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:11,314 - INFO - Transmission started at 1732993931.3142388.
+2024-11-30 16:12:11,515 - INFO - Transmission ended at 1732993931.5150287.
+2024-11-30 16:12:11,515 - INFO - Total transmission time: 0.0007899284 seconds.
+2024-11-30 16:12:12,933 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:12,933 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:12,933 - INFO - Transmission started at 1732993932.9332016.
+2024-11-30 16:12:13,134 - INFO - Transmission ended at 1732993933.1339478.
+2024-11-30 16:12:13,134 - INFO - Total transmission time: 0.0007462978 seconds.
+2024-11-30 16:12:14,432 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:14,432 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:14,432 - INFO - Transmission started at 1732993934.4323828.
+2024-11-30 16:12:14,635 - INFO - Transmission ended at 1732993934.6355433.
+2024-11-30 16:12:14,635 - INFO - Total transmission time: 0.0031605244 seconds.
+2024-11-30 16:12:15,947 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:15,947 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:15,947 - INFO - Transmission started at 1732993935.9475892.
+2024-11-30 16:12:16,148 - INFO - Transmission ended at 1732993936.1485925.
+2024-11-30 16:12:16,149 - INFO - Total transmission time: 0.0010033131 seconds.
+2024-11-30 16:12:17,520 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:17,520 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:17,520 - INFO - Transmission started at 1732993937.5208116.
+2024-11-30 16:12:17,721 - INFO - Transmission ended at 1732993937.721806.
+2024-11-30 16:12:17,722 - INFO - Total transmission time: 0.0009944916 seconds.
+2024-11-30 16:12:19,077 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:12:19,077 - INFO - Preparing to send file '1024b.txt' of size 1024 bytes.
+2024-11-30 16:12:19,077 - INFO - Transmission started at 1732993939.077429.
+2024-11-30 16:12:19,278 - INFO - Transmission ended at 1732993939.2781444.
+2024-11-30 16:12:19,278 - INFO - Total transmission time: 0.0007153034 seconds.
+2024-11-30 16:14:51,279 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:14:51,280 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:14:51,280 - INFO - Transmission started at 1732994091.280089.
+2024-11-30 16:14:51,484 - INFO - Transmission ended at 1732994091.4844568.
+2024-11-30 16:14:51,484 - INFO - Total transmission time: 0.0043678761 seconds.
+2024-11-30 16:14:56,229 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:14:56,229 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:14:56,229 - INFO - Transmission started at 1732994096.2294238.
+2024-11-30 16:14:56,433 - INFO - Transmission ended at 1732994096.4338052.
+2024-11-30 16:14:56,434 - INFO - Total transmission time: 0.0043814659 seconds.
+2024-11-30 16:14:58,764 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:14:58,764 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:14:58,764 - INFO - Transmission started at 1732994098.7644975.
+2024-11-30 16:14:58,972 - INFO - Transmission ended at 1732994098.9724386.
+2024-11-30 16:14:58,972 - INFO - Total transmission time: 0.0079410553 seconds.
+2024-11-30 16:15:02,820 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:15:02,820 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:15:02,820 - INFO - Transmission started at 1732994102.8203006.
+2024-11-30 16:15:03,025 - INFO - Transmission ended at 1732994103.0255141.
+2024-11-30 16:15:03,025 - INFO - Total transmission time: 0.0052135468 seconds.
+2024-11-30 16:15:04,779 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:15:04,799 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:15:04,799 - INFO - Transmission started at 1732994104.7994196.
+2024-11-30 16:15:05,007 - INFO - Transmission ended at 1732994105.0076818.
+2024-11-30 16:15:05,008 - INFO - Total transmission time: 0.0082622051 seconds.
+2024-11-30 16:15:06,691 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:15:06,691 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:15:06,691 - INFO - Transmission started at 1732994106.691429.
+2024-11-30 16:15:06,897 - INFO - Transmission ended at 1732994106.8972812.
+2024-11-30 16:15:06,897 - INFO - Total transmission time: 0.0058522701 seconds.
+2024-11-30 16:15:08,522 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:15:08,522 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:15:08,522 - INFO - Transmission started at 1732994108.5225043.
+2024-11-30 16:15:08,727 - INFO - Transmission ended at 1732994108.7272298.
+2024-11-30 16:15:08,727 - INFO - Total transmission time: 0.0047255039 seconds.
+2024-11-30 16:15:10,430 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:15:10,430 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:15:10,430 - INFO - Transmission started at 1732994110.4309587.
+2024-11-30 16:15:10,635 - INFO - Transmission ended at 1732994110.6357532.
+2024-11-30 16:15:10,636 - INFO - Total transmission time: 0.0047944069 seconds.
+2024-11-30 16:15:12,292 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:15:12,292 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:15:12,292 - INFO - Transmission started at 1732994112.292394.
+2024-11-30 16:15:12,497 - INFO - Transmission ended at 1732994112.4977572.
+2024-11-30 16:15:12,498 - INFO - Total transmission time: 0.0053632736 seconds.
+2024-11-30 16:15:14,285 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:15:14,285 - INFO - Preparing to send file '500kb.txt' of size 500000 bytes.
+2024-11-30 16:15:14,285 - INFO - Transmission started at 1732994114.2853146.
+2024-11-30 16:15:14,492 - INFO - Transmission ended at 1732994114.491966.
+2024-11-30 16:15:14,492 - INFO - Total transmission time: 0.0066514492 seconds.
+2024-11-30 16:30:21,803 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:21,803 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:21,803 - INFO - Transmission started at 1732995021.803896.
+2024-11-30 16:30:22,011 - INFO - Transmission ended at 1732995022.0114107.
+2024-11-30 16:30:22,011 - INFO - Total transmission time: 0.0075147629 seconds.
+2024-11-30 16:30:25,381 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:25,381 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:25,381 - INFO - Transmission started at 1732995025.3812246.
+2024-11-30 16:30:25,590 - INFO - Transmission ended at 1732995025.590187.
+2024-11-30 16:30:25,590 - INFO - Total transmission time: 0.0089624405 seconds.
+2024-11-30 16:30:27,275 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:27,276 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:27,276 - INFO - Transmission started at 1732995027.2760954.
+2024-11-30 16:30:27,483 - INFO - Transmission ended at 1732995027.4837308.
+2024-11-30 16:30:27,484 - INFO - Total transmission time: 0.0076354027 seconds.
+2024-11-30 16:30:28,912 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:28,912 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:28,912 - INFO - Transmission started at 1732995028.9124546.
+2024-11-30 16:30:29,120 - INFO - Transmission ended at 1732995029.1200051.
+2024-11-30 16:30:29,120 - INFO - Total transmission time: 0.0075505257 seconds.
+2024-11-30 16:30:30,979 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:30,979 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:30,979 - INFO - Transmission started at 1732995030.9798152.
+2024-11-30 16:30:31,190 - INFO - Transmission ended at 1732995031.1907146.
+2024-11-30 16:30:31,191 - INFO - Total transmission time: 0.0108993530 seconds.
+2024-11-30 16:30:32,810 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:32,810 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:32,810 - INFO - Transmission started at 1732995032.8103316.
+2024-11-30 16:30:33,019 - INFO - Transmission ended at 1732995033.0190215.
+2024-11-30 16:30:33,019 - INFO - Total transmission time: 0.0086899281 seconds.
+2024-11-30 16:30:34,480 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:34,480 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:34,480 - INFO - Transmission started at 1732995034.480882.
+2024-11-30 16:30:34,692 - INFO - Transmission ended at 1732995034.6918826.
+2024-11-30 16:30:34,692 - INFO - Total transmission time: 0.0110006809 seconds.
+2024-11-30 16:30:36,032 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:36,032 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:36,032 - INFO - Transmission started at 1732995036.0327435.
+2024-11-30 16:30:36,240 - INFO - Transmission ended at 1732995036.2400143.
+2024-11-30 16:30:36,240 - INFO - Total transmission time: 0.0072708607 seconds.
+2024-11-30 16:30:37,865 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:37,865 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:37,865 - INFO - Transmission started at 1732995037.8658826.
+2024-11-30 16:30:38,072 - INFO - Transmission ended at 1732995038.0724928.
+2024-11-30 16:30:38,072 - INFO - Total transmission time: 0.0066102028 seconds.
+2024-11-30 16:30:39,553 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:30:39,553 - INFO - Preparing to send file '1mb.txt' of size 1000000 bytes.
+2024-11-30 16:30:39,553 - INFO - Transmission started at 1732995039.5533535.
+2024-11-30 16:30:39,762 - INFO - Transmission ended at 1732995039.7621052.
+2024-11-30 16:30:39,762 - INFO - Total transmission time: 0.0087516785 seconds.
+2024-11-30 16:31:23,319 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:23,319 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:23,319 - INFO - Transmission started at 1732995083.3197892.
+2024-11-30 16:31:23,560 - INFO - Transmission ended at 1732995083.5606775.
+2024-11-30 16:31:23,560 - INFO - Total transmission time: 0.0408883572 seconds.
+2024-11-30 16:31:27,618 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:27,619 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:27,619 - INFO - Transmission started at 1732995087.619083.
+2024-11-30 16:31:27,857 - INFO - Transmission ended at 1732995087.8574016.
+2024-11-30 16:31:27,857 - INFO - Total transmission time: 0.0383186817 seconds.
+2024-11-30 16:31:31,703 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:31,703 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:31,703 - INFO - Transmission started at 1732995091.7036252.
+2024-11-30 16:31:31,947 - INFO - Transmission ended at 1732995091.9473863.
+2024-11-30 16:31:31,947 - INFO - Total transmission time: 0.0437610626 seconds.
+2024-11-30 16:31:35,616 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:35,616 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:35,616 - INFO - Transmission started at 1732995095.6164844.
+2024-11-30 16:31:35,834 - INFO - Transmission ended at 1732995095.8341722.
+2024-11-30 16:31:35,834 - INFO - Total transmission time: 0.0176878452 seconds.
+2024-11-30 16:31:41,440 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:41,440 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:41,440 - INFO - Transmission started at 1732995101.4403565.
+2024-11-30 16:31:41,685 - INFO - Transmission ended at 1732995101.685542.
+2024-11-30 16:31:41,685 - INFO - Total transmission time: 0.0451856136 seconds.
+2024-11-30 16:31:46,322 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:46,322 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:46,322 - INFO - Transmission started at 1732995106.322678.
+2024-11-30 16:31:46,542 - INFO - Transmission ended at 1732995106.5426443.
+2024-11-30 16:31:46,542 - INFO - Total transmission time: 0.0199661732 seconds.
+2024-11-30 16:31:48,751 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:48,751 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:48,751 - INFO - Transmission started at 1732995108.7517755.
+2024-11-30 16:31:49,000 - INFO - Transmission ended at 1732995109.0008876.
+2024-11-30 16:31:49,001 - INFO - Total transmission time: 0.0491121292 seconds.
+2024-11-30 16:31:51,405 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:51,406 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:51,406 - INFO - Transmission started at 1732995111.4060905.
+2024-11-30 16:31:51,628 - INFO - Transmission ended at 1732995111.6285672.
+2024-11-30 16:31:51,628 - INFO - Total transmission time: 0.0224767208 seconds.
+2024-11-30 16:31:54,504 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:54,504 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:54,504 - INFO - Transmission started at 1732995114.5046496.
+2024-11-30 16:31:54,723 - INFO - Transmission ended at 1732995114.723625.
+2024-11-30 16:31:54,723 - INFO - Total transmission time: 0.0189753056 seconds.
+2024-11-30 16:31:57,241 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:31:57,241 - INFO - Preparing to send file '10mb.txt' of size 10000000 bytes.
+2024-11-30 16:31:57,241 - INFO - Transmission started at 1732995117.2416449.
+2024-11-30 16:31:57,487 - INFO - Transmission ended at 1732995117.4872434.
+2024-11-30 16:31:57,487 - INFO - Total transmission time: 0.0455985546 seconds.
+2024-11-30 16:33:18,506 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:33:18,507 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:33:18,507 - INFO - Transmission started at 1732995198.5070598.
+2024-11-30 16:33:19,640 - INFO - Transmission ended at 1732995199.6400855.
+2024-11-30 16:33:19,640 - INFO - Total transmission time: 0.9330256462 seconds.
+2024-11-30 16:34:05,679 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:34:05,679 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:34:05,679 - INFO - Transmission started at 1732995245.6792943.
+2024-11-30 16:34:06,037 - INFO - Transmission ended at 1732995246.0370262.
+2024-11-30 16:34:06,037 - INFO - Total transmission time: 0.1577318192 seconds.
+2024-11-30 16:34:22,005 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:34:22,005 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:34:22,005 - INFO - Transmission started at 1732995262.0059245.
+2024-11-30 16:34:22,395 - INFO - Transmission ended at 1732995262.395153.
+2024-11-30 16:34:22,395 - INFO - Total transmission time: 0.1892285824 seconds.
+2024-11-30 16:35:06,386 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:35:06,386 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:35:06,386 - INFO - Transmission started at 1732995306.3862715.
+2024-11-30 16:35:06,758 - INFO - Transmission ended at 1732995306.7584505.
+2024-11-30 16:35:06,758 - INFO - Total transmission time: 0.1721790314 seconds.
+2024-11-30 16:35:30,604 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:35:30,605 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:35:30,605 - INFO - Transmission started at 1732995330.6051307.
+2024-11-30 16:35:31,003 - INFO - Transmission ended at 1732995331.003787.
+2024-11-30 16:35:31,003 - INFO - Total transmission time: 0.1986563683 seconds.
+2024-11-30 16:36:00,965 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:36:00,965 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:36:00,965 - INFO - Transmission started at 1732995360.9656641.
+2024-11-30 16:36:01,358 - INFO - Transmission ended at 1732995361.3585196.
+2024-11-30 16:36:01,358 - INFO - Total transmission time: 0.1928554058 seconds.
+2024-11-30 16:36:16,645 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:36:16,645 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:36:16,646 - INFO - Transmission started at 1732995376.646047.
+2024-11-30 16:36:17,061 - INFO - Transmission ended at 1732995377.0612407.
+2024-11-30 16:36:17,061 - INFO - Total transmission time: 0.2151935577 seconds.
+2024-11-30 16:36:42,736 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:36:42,737 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:36:42,737 - INFO - Transmission started at 1732995402.7370687.
+2024-11-30 16:36:43,130 - INFO - Transmission ended at 1732995403.1305041.
+2024-11-30 16:36:43,130 - INFO - Total transmission time: 0.1934354782 seconds.
+2024-11-30 16:37:08,445 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:37:08,445 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:37:08,445 - INFO - Transmission started at 1732995428.4458125.
+2024-11-30 16:37:08,829 - INFO - Transmission ended at 1732995428.8297696.
+2024-11-30 16:37:08,829 - INFO - Total transmission time: 0.1839571476 seconds.
+2024-11-30 16:37:28,930 - INFO - Connected to TCP server at 127.0.0.1:2222
+2024-11-30 16:37:28,930 - INFO - Preparing to send file '100mb.txt' of size 100000000 bytes.
+2024-11-30 16:37:28,930 - INFO - Transmission started at 1732995448.9309459.
+2024-11-30 16:37:29,346 - INFO - Transmission ended at 1732995449.3469324.
+2024-11-30 16:37:29,347 - INFO - Total transmission time: 0.2159865379 seconds.

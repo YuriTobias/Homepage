@@ -1,0 +1,400 @@
+2024-11-30 16:11:59,344 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:00,318 - INFO - Connected by ('127.0.0.1', 58942).
+2024-11-30 16:12:00,319 - INFO - Server process started at 1732993920.3191621.
+2024-11-30 16:12:00,319 - INFO - Transmission started at 1732993920.3189085 accordingdly to client
+2024-11-30 16:12:00,419 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:00,521 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:00,521 - INFO - Transmission and server process ended at 1732993920.5213292.
+2024-11-30 16:12:00,521 - INFO - Total transmission time: 0.0024207115 seconds.
+2024-11-30 16:12:03,465 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:04,163 - INFO - Connected by ('127.0.0.1', 58946).
+2024-11-30 16:12:04,163 - INFO - Server process started at 1732993924.1634123.
+2024-11-30 16:12:04,163 - INFO - Transmission started at 1732993924.1633065 accordingdly to client
+2024-11-30 16:12:04,264 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:04,365 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:04,365 - INFO - Transmission and server process ended at 1732993924.3656492.
+2024-11-30 16:12:04,365 - INFO - Total transmission time: 0.0023427486 seconds.
+2024-11-30 16:12:06,891 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:07,738 - INFO - Connected by ('127.0.0.1', 58394).
+2024-11-30 16:12:07,738 - INFO - Server process started at 1732993927.738438.
+2024-11-30 16:12:07,738 - INFO - Transmission started at 1732993927.7383087 accordingdly to client
+2024-11-30 16:12:07,838 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:07,940 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:07,940 - INFO - Transmission and server process ended at 1732993927.9409127.
+2024-11-30 16:12:07,941 - INFO - Total transmission time: 0.0026040554 seconds.
+2024-11-30 16:12:08,885 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:09,584 - INFO - Connected by ('127.0.0.1', 58404).
+2024-11-30 16:12:09,584 - INFO - Server process started at 1732993929.5842154.
+2024-11-30 16:12:09,584 - INFO - Transmission started at 1732993929.584099 accordingdly to client
+2024-11-30 16:12:09,684 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:09,786 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:09,786 - INFO - Transmission and server process ended at 1732993929.7868624.
+2024-11-30 16:12:09,787 - INFO - Total transmission time: 0.0027633190 seconds.
+2024-11-30 16:12:10,608 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:11,314 - INFO - Connected by ('127.0.0.1', 58420).
+2024-11-30 16:12:11,314 - INFO - Server process started at 1732993931.3143811.
+2024-11-30 16:12:11,314 - INFO - Transmission started at 1732993931.3142388 accordingdly to client
+2024-11-30 16:12:11,414 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:11,515 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:11,515 - INFO - Transmission and server process ended at 1732993931.5158594.
+2024-11-30 16:12:11,516 - INFO - Total transmission time: 0.0016205788 seconds.
+2024-11-30 16:12:12,294 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:12,933 - INFO - Connected by ('127.0.0.1', 58428).
+2024-11-30 16:12:12,933 - INFO - Server process started at 1732993932.933296.
+2024-11-30 16:12:12,933 - INFO - Transmission started at 1732993932.9332016 accordingdly to client
+2024-11-30 16:12:13,033 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:13,134 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:13,135 - INFO - Transmission and server process ended at 1732993933.1350064.
+2024-11-30 16:12:13,135 - INFO - Total transmission time: 0.0018048763 seconds.
+2024-11-30 16:12:13,858 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:14,432 - INFO - Connected by ('127.0.0.1', 58430).
+2024-11-30 16:12:14,432 - INFO - Server process started at 1732993934.4324682.
+2024-11-30 16:12:14,432 - INFO - Transmission started at 1732993934.4323828 accordingdly to client
+2024-11-30 16:12:14,533 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:14,638 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:14,638 - INFO - Transmission and server process ended at 1732993934.6384957.
+2024-11-30 16:12:14,638 - INFO - Total transmission time: 0.0061128616 seconds.
+2024-11-30 16:12:15,408 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:15,947 - INFO - Connected by ('127.0.0.1', 58438).
+2024-11-30 16:12:15,947 - INFO - Server process started at 1732993935.9477127.
+2024-11-30 16:12:15,947 - INFO - Transmission started at 1732993935.9475892 accordingdly to client
+2024-11-30 16:12:16,048 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:16,149 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:16,150 - INFO - Transmission and server process ended at 1732993936.1501913.
+2024-11-30 16:12:16,150 - INFO - Total transmission time: 0.0026021481 seconds.
+2024-11-30 16:12:16,954 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:17,520 - INFO - Connected by ('127.0.0.1', 58444).
+2024-11-30 16:12:17,520 - INFO - Server process started at 1732993937.5209277.
+2024-11-30 16:12:17,521 - INFO - Transmission started at 1732993937.5208116 accordingdly to client
+2024-11-30 16:12:17,621 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:17,722 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:17,723 - INFO - Transmission and server process ended at 1732993937.7231178.
+2024-11-30 16:12:17,723 - INFO - Total transmission time: 0.0023062706 seconds.
+2024-11-30 16:12:18,541 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:12:19,077 - INFO - Connected by ('127.0.0.1', 43848).
+2024-11-30 16:12:19,077 - INFO - Server process started at 1732993939.0775747.
+2024-11-30 16:12:19,077 - INFO - Transmission started at 1732993939.077429 accordingdly to client
+2024-11-30 16:12:19,178 - INFO - Receiving file '1024b.txt'.
+2024-11-30 16:12:19,278 - INFO - File '1024b.txt' received and saved at 'received_files/1024b.txt'.
+2024-11-30 16:12:19,278 - INFO - Transmission and server process ended at 1732993939.2788997.
+2024-11-30 16:12:19,279 - INFO - Total transmission time: 0.0014706135 seconds.
+2024-11-30 16:14:50,406 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:14:51,280 - INFO - Connected by ('127.0.0.1', 50734).
+2024-11-30 16:14:51,280 - INFO - Server process started at 1732994091.2802045.
+2024-11-30 16:14:51,280 - INFO - Transmission started at 1732994091.280089 accordingdly to client
+2024-11-30 16:14:51,381 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:14:51,487 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:14:51,487 - INFO - Transmission and server process ended at 1732994091.4877918.
+2024-11-30 16:14:51,488 - INFO - Total transmission time: 0.0077028751 seconds.
+2024-11-30 16:14:55,310 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:14:56,229 - INFO - Connected by ('127.0.0.1', 50746).
+2024-11-30 16:14:56,229 - INFO - Server process started at 1732994096.2295375.
+2024-11-30 16:14:56,229 - INFO - Transmission started at 1732994096.2294238 accordingdly to client
+2024-11-30 16:14:56,330 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:14:56,436 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:14:56,437 - INFO - Transmission and server process ended at 1732994096.4371896.
+2024-11-30 16:14:56,437 - INFO - Total transmission time: 0.0077658176 seconds.
+2024-11-30 16:14:57,938 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:14:58,764 - INFO - Connected by ('127.0.0.1', 60910).
+2024-11-30 16:14:58,764 - INFO - Server process started at 1732994098.764608.
+2024-11-30 16:14:58,764 - INFO - Transmission started at 1732994098.7644975 accordingdly to client
+2024-11-30 16:14:58,865 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:14:58,975 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:14:58,976 - INFO - Transmission and server process ended at 1732994098.9759314.
+2024-11-30 16:14:58,976 - INFO - Total transmission time: 0.0114338875 seconds.
+2024-11-30 16:15:01,298 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:15:02,820 - INFO - Connected by ('127.0.0.1', 60922).
+2024-11-30 16:15:02,820 - INFO - Server process started at 1732994102.8204024.
+2024-11-30 16:15:02,820 - INFO - Transmission started at 1732994102.8203006 accordingdly to client
+2024-11-30 16:15:02,920 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:15:03,031 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:15:03,031 - INFO - Transmission and server process ended at 1732994103.031486.
+2024-11-30 16:15:03,031 - INFO - Total transmission time: 0.0111854553 seconds.
+2024-11-30 16:15:04,028 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:15:04,779 - INFO - Connected by ('127.0.0.1', 60924).
+2024-11-30 16:15:04,800 - INFO - Server process started at 1732994104.7999606.
+2024-11-30 16:15:04,800 - INFO - Transmission started at 1732994104.7994196 accordingdly to client
+2024-11-30 16:15:04,900 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:15:05,010 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:15:05,011 - INFO - Transmission and server process ended at 1732994105.0113158.
+2024-11-30 16:15:05,011 - INFO - Total transmission time: 0.0118961811 seconds.
+2024-11-30 16:15:05,762 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:15:06,691 - INFO - Connected by ('127.0.0.1', 60928).
+2024-11-30 16:15:06,691 - INFO - Server process started at 1732994106.6915205.
+2024-11-30 16:15:06,691 - INFO - Transmission started at 1732994106.691429 accordingdly to client
+2024-11-30 16:15:06,792 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:15:06,899 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:15:06,899 - INFO - Transmission and server process ended at 1732994106.899271.
+2024-11-30 16:15:06,899 - INFO - Total transmission time: 0.0078421116 seconds.
+2024-11-30 16:15:07,810 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:15:08,522 - INFO - Connected by ('127.0.0.1', 48318).
+2024-11-30 16:15:08,522 - INFO - Server process started at 1732994108.5226123.
+2024-11-30 16:15:08,522 - INFO - Transmission started at 1732994108.5225043 accordingdly to client
+2024-11-30 16:15:08,623 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:15:08,729 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:15:08,729 - INFO - Transmission and server process ended at 1732994108.7298584.
+2024-11-30 16:15:08,730 - INFO - Total transmission time: 0.0073540688 seconds.
+2024-11-30 16:15:09,652 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:15:10,430 - INFO - Connected by ('127.0.0.1', 48328).
+2024-11-30 16:15:10,431 - INFO - Server process started at 1732994110.4311018.
+2024-11-30 16:15:10,431 - INFO - Transmission started at 1732994110.4309587 accordingdly to client
+2024-11-30 16:15:10,531 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:15:10,638 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:15:10,638 - INFO - Transmission and server process ended at 1732994110.6385458.
+2024-11-30 16:15:10,638 - INFO - Total transmission time: 0.0075870037 seconds.
+2024-11-30 16:15:11,580 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:15:12,292 - INFO - Connected by ('127.0.0.1', 48342).
+2024-11-30 16:15:12,292 - INFO - Server process started at 1732994112.2925048.
+2024-11-30 16:15:12,292 - INFO - Transmission started at 1732994112.292394 accordingdly to client
+2024-11-30 16:15:12,393 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:15:12,499 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:15:12,499 - INFO - Transmission and server process ended at 1732994112.4998322.
+2024-11-30 16:15:12,499 - INFO - Total transmission time: 0.0074382305 seconds.
+2024-11-30 16:15:13,420 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:15:14,285 - INFO - Connected by ('127.0.0.1', 48356).
+2024-11-30 16:15:14,285 - INFO - Server process started at 1732994114.285471.
+2024-11-30 16:15:14,285 - INFO - Transmission started at 1732994114.2853146 accordingdly to client
+2024-11-30 16:15:14,385 - INFO - Receiving file '500kb.txt'.
+2024-11-30 16:15:14,492 - INFO - File '500kb.txt' received and saved at 'received_files/500kb.txt'.
+2024-11-30 16:15:14,492 - INFO - Transmission and server process ended at 1732994114.4926324.
+2024-11-30 16:15:14,492 - INFO - Total transmission time: 0.0073178291 seconds.
+2024-11-30 16:30:20,463 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:21,803 - INFO - Connected by ('127.0.0.1', 39478).
+2024-11-30 16:30:21,804 - INFO - Server process started at 1732995021.8040013.
+2024-11-30 16:30:21,804 - INFO - Transmission started at 1732995021.803896 accordingdly to client
+2024-11-30 16:30:21,904 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:22,016 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:22,017 - INFO - Transmission and server process ended at 1732995022.0171978.
+2024-11-30 16:30:22,017 - INFO - Total transmission time: 0.0133018970 seconds.
+2024-11-30 16:30:24,176 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:25,381 - INFO - Connected by ('127.0.0.1', 39486).
+2024-11-30 16:30:25,381 - INFO - Server process started at 1732995025.3813548.
+2024-11-30 16:30:25,381 - INFO - Transmission started at 1732995025.3812246 accordingdly to client
+2024-11-30 16:30:25,481 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:25,593 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:25,594 - INFO - Transmission and server process ended at 1732995025.5940812.
+2024-11-30 16:30:25,594 - INFO - Total transmission time: 0.0128565311 seconds.
+2024-11-30 16:30:26,648 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:27,276 - INFO - Connected by ('127.0.0.1', 39496).
+2024-11-30 16:30:27,277 - INFO - Server process started at 1732995027.277208.
+2024-11-30 16:30:27,277 - INFO - Transmission started at 1732995027.2760954 accordingdly to client
+2024-11-30 16:30:27,376 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:27,490 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:27,491 - INFO - Transmission and server process ended at 1732995027.4910235.
+2024-11-30 16:30:27,491 - INFO - Total transmission time: 0.0149281502 seconds.
+2024-11-30 16:30:28,312 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:28,912 - INFO - Connected by ('127.0.0.1', 49202).
+2024-11-30 16:30:28,912 - INFO - Server process started at 1732995028.9125671.
+2024-11-30 16:30:28,912 - INFO - Transmission started at 1732995028.9124546 accordingdly to client
+2024-11-30 16:30:29,013 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:29,124 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:29,124 - INFO - Transmission and server process ended at 1732995029.1245008.
+2024-11-30 16:30:29,125 - INFO - Total transmission time: 0.0120461464 seconds.
+2024-11-30 16:30:30,337 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:30,979 - INFO - Connected by ('127.0.0.1', 49216).
+2024-11-30 16:30:30,979 - INFO - Server process started at 1732995030.97997.
+2024-11-30 16:30:30,980 - INFO - Transmission started at 1732995030.9798152 accordingdly to client
+2024-11-30 16:30:31,080 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:31,193 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:31,193 - INFO - Transmission and server process ended at 1732995031.1935709.
+2024-11-30 16:30:31,193 - INFO - Total transmission time: 0.0137556076 seconds.
+2024-11-30 16:30:32,167 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:32,810 - INFO - Connected by ('127.0.0.1', 49220).
+2024-11-30 16:30:32,810 - INFO - Server process started at 1732995032.8104463.
+2024-11-30 16:30:32,810 - INFO - Transmission started at 1732995032.8103316 accordingdly to client
+2024-11-30 16:30:32,911 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:33,027 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:33,027 - INFO - Transmission and server process ended at 1732995033.0277634.
+2024-11-30 16:30:33,028 - INFO - Total transmission time: 0.0174317837 seconds.
+2024-11-30 16:30:33,805 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:34,480 - INFO - Connected by ('127.0.0.1', 49228).
+2024-11-30 16:30:34,480 - INFO - Server process started at 1732995034.4809713.
+2024-11-30 16:30:34,481 - INFO - Transmission started at 1732995034.480882 accordingdly to client
+2024-11-30 16:30:34,581 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:34,697 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:34,697 - INFO - Transmission and server process ended at 1732995034.6974707.
+2024-11-30 16:30:34,697 - INFO - Total transmission time: 0.0165887356 seconds.
+2024-11-30 16:30:35,430 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:36,032 - INFO - Connected by ('127.0.0.1', 49236).
+2024-11-30 16:30:36,032 - INFO - Server process started at 1732995036.0328305.
+2024-11-30 16:30:36,032 - INFO - Transmission started at 1732995036.0327435 accordingdly to client
+2024-11-30 16:30:36,133 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:36,245 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:36,245 - INFO - Transmission and server process ended at 1732995036.2455335.
+2024-11-30 16:30:36,245 - INFO - Total transmission time: 0.0127900124 seconds.
+2024-11-30 16:30:37,240 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:37,865 - INFO - Connected by ('127.0.0.1', 46256).
+2024-11-30 16:30:37,865 - INFO - Server process started at 1732995037.8659737.
+2024-11-30 16:30:37,866 - INFO - Transmission started at 1732995037.8658826 accordingdly to client
+2024-11-30 16:30:37,966 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:38,077 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:38,077 - INFO - Transmission and server process ended at 1732995038.0776148.
+2024-11-30 16:30:38,077 - INFO - Total transmission time: 0.0117321491 seconds.
+2024-11-30 16:30:38,974 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:30:39,553 - INFO - Connected by ('127.0.0.1', 46270).
+2024-11-30 16:30:39,553 - INFO - Server process started at 1732995039.5534873.
+2024-11-30 16:30:39,553 - INFO - Transmission started at 1732995039.5533535 accordingdly to client
+2024-11-30 16:30:39,654 - INFO - Receiving file '1mb.txt'.
+2024-11-30 16:30:39,775 - INFO - File '1mb.txt' received and saved at 'received_files/1mb.txt'.
+2024-11-30 16:30:39,775 - INFO - Transmission and server process ended at 1732995039.7753227.
+2024-11-30 16:30:39,775 - INFO - Total transmission time: 0.0219691277 seconds.
+2024-11-30 16:31:22,278 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:23,319 - INFO - Connected by ('127.0.0.1', 40752).
+2024-11-30 16:31:23,319 - INFO - Server process started at 1732995083.3199046.
+2024-11-30 16:31:23,319 - INFO - Transmission started at 1732995083.3197892 accordingdly to client
+2024-11-30 16:31:23,420 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:26,088 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:26,088 - INFO - Transmission and server process ended at 1732995086.0886805.
+2024-11-30 16:31:26,089 - INFO - Total transmission time: 2.5688913345 seconds.
+2024-11-30 16:31:26,953 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:27,619 - INFO - Connected by ('127.0.0.1', 40754).
+2024-11-30 16:31:27,619 - INFO - Server process started at 1732995087.6192107.
+2024-11-30 16:31:27,619 - INFO - Transmission started at 1732995087.619083 accordingdly to client
+2024-11-30 16:31:27,719 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:30,550 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:30,550 - INFO - Transmission and server process ended at 1732995090.550835.
+2024-11-30 16:31:30,551 - INFO - Total transmission time: 2.7317519665 seconds.
+2024-11-30 16:31:31,191 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:31,703 - INFO - Connected by ('127.0.0.1', 34858).
+2024-11-30 16:31:31,703 - INFO - Server process started at 1732995091.7037358.
+2024-11-30 16:31:31,703 - INFO - Transmission started at 1732995091.7036252 accordingdly to client
+2024-11-30 16:31:31,804 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:34,507 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:34,508 - INFO - Transmission and server process ended at 1732995094.508318.
+2024-11-30 16:31:34,508 - INFO - Total transmission time: 2.6046927452 seconds.
+2024-11-30 16:31:35,112 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:35,616 - INFO - Connected by ('127.0.0.1', 34862).
+2024-11-30 16:31:35,616 - INFO - Server process started at 1732995095.616607.
+2024-11-30 16:31:35,616 - INFO - Transmission started at 1732995095.6164844 accordingdly to client
+2024-11-30 16:31:35,717 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:40,222 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:40,222 - INFO - Transmission and server process ended at 1732995100.2224598.
+2024-11-30 16:31:40,222 - INFO - Total transmission time: 4.4059753895 seconds.
+2024-11-30 16:31:40,911 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:41,440 - INFO - Connected by ('127.0.0.1', 34522).
+2024-11-30 16:31:41,440 - INFO - Server process started at 1732995101.4405.
+2024-11-30 16:31:41,440 - INFO - Transmission started at 1732995101.4403565 accordingdly to client
+2024-11-30 16:31:41,541 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:42,476 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:42,476 - INFO - Transmission and server process ended at 1732995102.476692.
+2024-11-30 16:31:42,477 - INFO - Total transmission time: 0.8363354683 seconds.
+2024-11-30 16:31:45,303 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:46,322 - INFO - Connected by ('127.0.0.1', 34532).
+2024-11-30 16:31:46,322 - INFO - Server process started at 1732995106.3227708.
+2024-11-30 16:31:46,322 - INFO - Transmission started at 1732995106.322678 accordingdly to client
+2024-11-30 16:31:46,423 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:47,258 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:47,258 - INFO - Transmission and server process ended at 1732995107.2584727.
+2024-11-30 16:31:47,258 - INFO - Total transmission time: 0.7357945919 seconds.
+2024-11-30 16:31:48,106 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:48,751 - INFO - Connected by ('127.0.0.1', 50250).
+2024-11-30 16:31:48,752 - INFO - Server process started at 1732995108.7520056.
+2024-11-30 16:31:48,752 - INFO - Transmission started at 1732995108.7517755 accordingdly to client
+2024-11-30 16:31:48,852 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:50,126 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:50,127 - INFO - Transmission and server process ended at 1732995110.1273966.
+2024-11-30 16:31:50,127 - INFO - Total transmission time: 1.1756210804 seconds.
+2024-11-30 16:31:50,801 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:51,405 - INFO - Connected by ('127.0.0.1', 50254).
+2024-11-30 16:31:51,406 - INFO - Server process started at 1732995111.40619.
+2024-11-30 16:31:51,406 - INFO - Transmission started at 1732995111.4060905 accordingdly to client
+2024-11-30 16:31:51,514 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:53,012 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:53,013 - INFO - Transmission and server process ended at 1732995113.012995.
+2024-11-30 16:31:53,013 - INFO - Total transmission time: 1.4069045067 seconds.
+2024-11-30 16:31:53,863 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:54,504 - INFO - Connected by ('127.0.0.1', 50264).
+2024-11-30 16:31:54,504 - INFO - Server process started at 1732995114.5047617.
+2024-11-30 16:31:54,504 - INFO - Transmission started at 1732995114.5046496 accordingdly to client
+2024-11-30 16:31:54,605 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:55,778 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:55,778 - INFO - Transmission and server process ended at 1732995115.7784903.
+2024-11-30 16:31:55,778 - INFO - Total transmission time: 1.0738406658 seconds.
+2024-11-30 16:31:56,580 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:31:57,241 - INFO - Connected by ('127.0.0.1', 50266).
+2024-11-30 16:31:57,241 - INFO - Server process started at 1732995117.2417965.
+2024-11-30 16:31:57,241 - INFO - Transmission started at 1732995117.2416449 accordingdly to client
+2024-11-30 16:31:57,342 - INFO - Receiving file '10mb.txt'.
+2024-11-30 16:31:59,319 - INFO - File '10mb.txt' received and saved at 'received_files/10mb.txt'.
+2024-11-30 16:31:59,320 - INFO - Transmission and server process ended at 1732995119.3203585.
+2024-11-30 16:31:59,320 - INFO - Total transmission time: 1.8787136555 seconds.
+2024-11-30 16:33:17,592 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:33:18,506 - INFO - Connected by ('127.0.0.1', 60248).
+2024-11-30 16:33:18,507 - INFO - Server process started at 1732995198.50721.
+2024-11-30 16:33:18,507 - INFO - Transmission started at 1732995198.5070598 accordingdly to client
+2024-11-30 16:33:18,607 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:33:56,397 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:33:56,398 - INFO - Transmission and server process ended at 1732995236.3980484.
+2024-11-30 16:33:56,398 - INFO - Total transmission time: 37.6909885883 seconds.
+2024-11-30 16:34:05,010 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:34:05,679 - INFO - Connected by ('127.0.0.1', 34796).
+2024-11-30 16:34:05,679 - INFO - Server process started at 1732995245.6794415.
+2024-11-30 16:34:05,679 - INFO - Transmission started at 1732995245.6792943 accordingdly to client
+2024-11-30 16:34:05,780 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:34:18,869 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:34:18,870 - INFO - Transmission and server process ended at 1732995258.8702571.
+2024-11-30 16:34:18,870 - INFO - Total transmission time: 12.9909627914 seconds.
+2024-11-30 16:34:21,471 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:34:22,005 - INFO - Connected by ('127.0.0.1', 40560).
+2024-11-30 16:34:22,006 - INFO - Server process started at 1732995262.0060446.
+2024-11-30 16:34:22,006 - INFO - Transmission started at 1732995262.0059245 accordingdly to client
+2024-11-30 16:34:22,106 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:35:02,133 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:35:02,133 - INFO - Transmission and server process ended at 1732995302.1334555.
+2024-11-30 16:35:02,133 - INFO - Total transmission time: 39.9275310516 seconds.
+2024-11-30 16:35:04,426 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:35:06,386 - INFO - Connected by ('127.0.0.1', 46662).
+2024-11-30 16:35:06,386 - INFO - Server process started at 1732995306.386375.
+2024-11-30 16:35:06,386 - INFO - Transmission started at 1732995306.3862715 accordingdly to client
+2024-11-30 16:35:06,486 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:35:27,837 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:35:27,837 - INFO - Transmission and server process ended at 1732995327.8377233.
+2024-11-30 16:35:27,838 - INFO - Total transmission time: 21.2514517784 seconds.
+2024-11-30 16:35:29,964 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:35:30,605 - INFO - Connected by ('127.0.0.1', 51620).
+2024-11-30 16:35:30,605 - INFO - Server process started at 1732995330.6052237.
+2024-11-30 16:35:30,605 - INFO - Transmission started at 1732995330.6051307 accordingdly to client
+2024-11-30 16:35:30,705 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:35:59,206 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:35:59,206 - INFO - Transmission and server process ended at 1732995359.2067623.
+2024-11-30 16:35:59,207 - INFO - Total transmission time: 28.4016316414 seconds.
+2024-11-30 16:36:00,209 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:36:00,965 - INFO - Connected by ('127.0.0.1', 39246).
+2024-11-30 16:36:00,965 - INFO - Server process started at 1732995360.965766.
+2024-11-30 16:36:00,965 - INFO - Transmission started at 1732995360.9656641 accordingdly to client
+2024-11-30 16:36:01,066 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:36:09,816 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:36:09,817 - INFO - Transmission and server process ended at 1732995369.817319.
+2024-11-30 16:36:09,817 - INFO - Total transmission time: 8.6516547680 seconds.
+2024-11-30 16:36:15,964 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:36:16,645 - INFO - Connected by ('127.0.0.1', 42030).
+2024-11-30 16:36:16,646 - INFO - Server process started at 1732995376.646159.
+2024-11-30 16:36:16,646 - INFO - Transmission started at 1732995376.646047 accordingdly to client
+2024-11-30 16:36:16,746 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:36:40,085 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:36:40,086 - INFO - Transmission and server process ended at 1732995400.0863447.
+2024-11-30 16:36:40,086 - INFO - Total transmission time: 23.2402976036 seconds.
+2024-11-30 16:36:41,985 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:36:42,736 - INFO - Connected by ('127.0.0.1', 43644).
+2024-11-30 16:36:42,737 - INFO - Server process started at 1732995402.7372499.
+2024-11-30 16:36:42,737 - INFO - Transmission started at 1732995402.7370687 accordingdly to client
+2024-11-30 16:36:42,837 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:37:04,147 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:37:04,147 - INFO - Transmission and server process ended at 1732995424.147601.
+2024-11-30 16:37:04,148 - INFO - Total transmission time: 21.2105322361 seconds.
+2024-11-30 16:37:07,793 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:37:08,445 - INFO - Connected by ('127.0.0.1', 49430).
+2024-11-30 16:37:08,446 - INFO - Server process started at 1732995428.4459953.
+2024-11-30 16:37:08,446 - INFO - Transmission started at 1732995428.4458125 accordingdly to client
+2024-11-30 16:37:08,546 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:37:27,380 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:37:27,381 - INFO - Transmission and server process ended at 1732995447.3812943.
+2024-11-30 16:37:27,381 - INFO - Total transmission time: 18.7354817867 seconds.
+2024-11-30 16:37:28,389 - INFO - TCP Server listening on 127.0.0.1:2222
+2024-11-30 16:37:28,930 - INFO - Connected by ('127.0.0.1', 58730).
+2024-11-30 16:37:28,931 - INFO - Server process started at 1732995448.9310462.
+2024-11-30 16:37:28,931 - INFO - Transmission started at 1732995448.9309459 accordingdly to client
+2024-11-30 16:37:29,031 - INFO - Receiving file '100mb.txt'.
+2024-11-30 16:37:58,420 - INFO - File '100mb.txt' received and saved at 'received_files/100mb.txt'.
+2024-11-30 16:37:58,420 - INFO - Transmission and server process ended at 1732995478.4208367.
+2024-11-30 16:37:58,421 - INFO - Total transmission time: 29.2898908138 seconds.
