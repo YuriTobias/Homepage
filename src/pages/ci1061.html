@@ -41,7 +41,7 @@
                                     <h1 class="title-about pe-3">TCP vs UDP:</h1>
                                     <h1 class="title-me">A Verdade</h1>
                                 </div>
-                                <p class="about-text">
+                                <p class="ci1061-text">
                                     Dado o fato de que o protocolo TCP apresenta um desempenho que pode ser considerado surpreendente, tendo
                                     em vista todos os controles que o mesmo faz, oferecendo uma estimativa de aproximadamente 90% da taxa
                                     nominal da rede, ou seja, dada a execução de uma aplicação sobre TCP/IP em uma rede de 100Gbps, obtemos
@@ -57,7 +57,7 @@
                             </section>
                             <section id="testcases" class="pb-2 pb-lg-5">
                                 <h1 class="title-me pb-5">Casos de Teste</h1>
-                                <p class="about-text">
+                                <p class="ci1061-text">
                                     Afinal, como fazer essa medida? Bom, no nosso caso, optamos por realizar dois casos de teste: 1.
                                     Transmissão de arquivos entre uma máquina comum e um microcontrolador, que é nosso caso de teste
                                     principal e que foi mais abordado; e, 2. Transmissão de arquivos com e sem checksum habilitado, visando
@@ -67,15 +67,15 @@
                                 </p>
 
                                 <div class="row justify-content-center">
-                                    <div class="col-8">
+                                    <div class="col-12 col-lg-10">
                                         <h1 class="subtitle py-4">Teste de Perda de Pacotes</h1>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O uso de microcontroladores, como o ESP32, tem se tornado cada vez mais comum em aplicações de
                                             IoT, robótica, drones, entre outras. Esses dispositivos são programados para se comunicar com um
                                             computador, seja para enviar dados ou receber comandos. A comunicação entre eles frequentemente
                                             é feita via Wi-Fi, utilizando a internet como meio de transmissão.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Neste projeto, testamos a perda de pacotes entre um ESP32 e um computador utilizando os
                                             protocolos UDP e TCP. Nosso objetivo é analisar se a perda de pacotes é significativa e, em caso
                                             afirmativo, propor soluções para minimizar os impactos dessa perda na comunicação.
@@ -84,20 +84,22 @@
                                             <img class="ci1061-img" src="../assets/esp32.webp" alt="Foto de um ESP32" />
                                             <figcaption>Figura 1: Microcontrolador ESP32 utilizado no experimento</figcaption>
                                         </div>
-                                        <p>Aqui esta uma tabela compartiva entre a antiga versão do ESP8266 e a nova versão do ESP32.</p>
+                                        <p class="ci1061-text">
+                                            Aqui esta uma tabela compartiva entre a antiga versão do ESP8266 e a nova versão do ESP32.
+                                        </p>
                                         <div class="py-2">
                                             <img class="ci1061-img" src="../assets/esp32.png" alt="Comparativo entre as versões do ESP32" />
                                             <figcaption>Figura 2: Comparativo entre as versões do ESP32</figcaption>
                                         </div>
 
                                         <h1 class="subtitle py-4">Descrição do Teste</h1>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O teste consiste em criar um servidor no ESP32 e um cliente no computador. Uma possível
                                             aplicação prática seria o ESP32 como interface para um braço robótico e o computador como
                                             controlador desse braço, uma configuração comum em telecirurgia, por exemplo. O computador envia
                                             comandos ao ESP32, que, por sua vez, retorna dados de sensores.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O ESP32 foi programado em C++ utilizando a biblioteca Arduino, com a ferramenta PlatformIO. Já o
                                             cliente no computador foi programado em Python. O ESP32 foi conectado à rede via Wi-Fi, enquanto
                                             o computador utilizou uma conexão via cabo Ethernet.
@@ -113,7 +115,7 @@
 
                                         <h1 class="subtitle py-4">Teste com UDP</h1>
                                         <h3 class="subtitle-h3 pb-2">Teste com payload de 1450 bytes</h3>
-                                        <p>
+                                        <p class="ci1061-text">
                                             No teste com payload de 1450 bytes, realizamos a transmissão de pacotes UDP entre o ESP32 e o
                                             computador, com o objetivo de avaliar o impacto da perda de pacotes na comunicação. Durante o
                                             experimento, foram enviados 10.000 pacotes de 1450 bytes do computador para o ESP32. No entanto,
@@ -121,14 +123,12 @@
                                             alto índice de perda compromete significativamente a confiabilidade da comunicação, o que pode
                                             ser crítico em sistemas que dependem de dados em tempo real.
                                         </p>
-
-                                        <p>
+                                        <p class="ci1061-text">
                                             Os programas utilizados no experimento foram o clientUDP.py, que executa no computador, e o
                                             serverUDP.cpp, que roda no ESP32. A alta taxa de perda de pacotes observada sugere que esse tipo
                                             de configuração pode não ser adequado para aplicações sensíveis a atrasos ou falhas na entrega
                                             de dados.
                                         </p>
-
                                         <div class="py-2">
                                             <img
                                                 class="ci1061-img"
@@ -137,7 +137,7 @@
                                             />
                                             <figcaption>Figura 4: Gráfico do delay de processamento dos pacotes UDP</figcaption>
                                         </div>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O gráfico acima ilustra o delay de processamento de cada pacote em relação ao tempo, medido em
                                             milissegundos, desde o início da execução no ESP32. A análise revela que o delay médio foi de
                                             0,694 ms, com picos de até aproximadamente 90 ms, que ocorrem periodicamente a cada cerca de 720
@@ -146,7 +146,7 @@
                                             estão disponíveis no arquivo "esp32-log-udp-payload-1450.txt", para análise mais aprofundada.
                                         </p>
                                         <h3 class="subtitle-h3 pb-2">Por que tantos pacotes foram perdidos?</h3>
-                                        <div>
+                                        <div class="ci1061-text">
                                             Um dos fatores que contribuiu para a perda de pacotes foi o MSS (Maximum Segment Size) da rede,
                                             que, neste caso, foi identificado posteriormente como 1436 bytes por meio da análise da
                                             comunicação TCP com o Wireshark. Ao ajustar o tamanho do payload para 1000 bytes, observou-se
@@ -156,16 +156,16 @@
                                             pacotes está mais relacionado a limitações da rede ou do protocolo do que ao tamanho do payload
                                             em si.
                                         </div>
-                                        <div>
+                                        <p class="ci1061-text">
                                             Abaixo temos uma imagem do pacote que foi capturado pelo Wireshark, onde podemos ver o MSS da
                                             rede.
-                                        </div>
+                                        </p>
                                         <div class="py-2">
                                             <img class="ci1061-img" src="../assets/mss.png" alt="MSS da rede" />
                                             <figcaption>Figura 5: MSS da rede</figcaption>
                                         </div>
 
-                                        <p>
+                                        <p class="ci1061-text">
                                             Uma possível solução para mitigar a perda de pacotes seria implementar um mecanismo de ACK
                                             (Acknowledgment) no protocolo UDP, garantindo assim a entrega dos pacotes. No entanto, conforme
                                             discutido em sala de aula, adicionar esse mecanismo ao UDP seria redundante, já que o protocolo
@@ -176,13 +176,13 @@
                                         </p>
                                         <h2 class="subtitle py-4">Teste com TCP</h2>
                                         <h3 class="subtitle-h3 pb-2">Teste com payload de 1450 bytes</h3>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Com o TCP, como esperado não houve perda de pacotes. Foram enviados 100 pacotes de 1450 bytes do
                                             computador para o ESP32 e todos chegaram corretamente. O RTT (Round-Trip Time) médio foi de 2.35
                                             segundos. O Tempo total foi 236 segundos. O arquivo de log desse teste está disponível em
                                             "esp32-log-tcp-payload-1450.txt".
                                         </p>
-                                        <p>A imagem abaixo mostra a relação pacotes por segundo em relação ao tempo.</p>
+                                        <p class="ci1061-text">A imagem abaixo mostra a relação pacotes por segundo em relação ao tempo.</p>
                                         <div class="py-2">
                                             <img
                                                 class="ci1061-img"
@@ -191,7 +191,7 @@
                                             />
                                             <figcaption>Figura 6: Gráfico de pacotes por segundo</figcaption>
                                         </div>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O gráfico ilustra a relação entre o número de pacotes por segundo enviados ao longo do tempo, e
                                             revela padrões interessantes sobre a comunicação TCP no experimento. Observa-se uma variação
                                             significativa na taxa de pacotes, com momentos de maior intensidade seguidos por períodos em que
@@ -207,7 +207,7 @@
                                             />
                                             <figcaption>Figura 7: Gráfico do delay de processamento dos pacotes UDP</figcaption>
                                         </div>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O gráfico acima destaca, em vermelho, os pacotes retransmitidos durante a comunicação.
                                             Observa-se que os períodos em que a taxa de pacotes por segundo diminui coincidem com os
                                             momentos de maior número de retransmissões. Esse comportamento reflete o mecanismo de controle
@@ -217,7 +217,7 @@
                                         </p>
 
                                         <h3 class="subtitle-h3 pb-2">Teste com payload de 1000 bytes</h3>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Com um payload de 1000 bytes, o tempo médio de round-trip (RTT) foi de 1,13 segundos, resultando
                                             em um tempo total de 113 segundos para a transmissão completa. Esse valor de RTT reflete a
                                             latência da comunicação, levando em consideração o tempo de ida e volta dos pacotes entre o
@@ -232,7 +232,7 @@
                                             />
                                             <figcaption>Figura 8: Gráfico de pacotes por segundo</figcaption>
                                         </div>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O gráfico revela que, ao utilizar um payload de 1000 bytes, houve uma redução significativa no
                                             número de pacotes retransmitidos. Além disso, a taxa de pacotes por segundo apresentou maior
                                             estabilidade, indicando uma comunicação mais eficiente e consistente. Esse resultado sugere que
@@ -241,7 +241,7 @@
                                             regularidade são fundamentais.
                                         </p>
                                         <h2 class="subtitle py-4">Conclusão</h2>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O teste de perda de pacotes entre o ESP32 e o computador, utilizando os protocolos UDP e TCP,
                                             revelou informações cruciais sobre a confiabilidade e eficiência de comunicação nesses
                                             dispositivos. No caso do protocolo UDP, observamos uma taxa de perda de pacotes alarmante, que
@@ -250,13 +250,13 @@
                                             indicando sobrecargas ou flutuações que podem agravar ainda mais a confiabilidade da
                                             comunicação.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             A investigação das causas da perda de pacotes, como o MSS da rede e o tamanho do payload,
                                             sugeriu que o problema estava relacionado mais às limitações da rede do que ao tamanho dos
                                             pacotes. Apesar de ajustes no payload, as taxas de perda continuaram elevadas, destacando as
                                             limitações do protocolo UDP para aplicações que exigem alta confiabilidade.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Por outro lado, o protocolo TCP, ao ser testado, demonstrou superioridade em termos de
                                             confiabilidade. Não houve perda de pacotes, e a latência foi aceitável, com um RTT médio de 1,13
                                             segundos para payloads de 1000 bytes. A estabilidade na taxa de pacotes por segundo e a redução
@@ -264,20 +264,20 @@
                                             integridade dos dados é crítica, já que o protocolo oferece garantias de entrega e mecanismos de
                                             controle de retransmissão que o UDP não possui.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Portanto, a principal conclusão do estudo é que, embora o protocolo UDP possa ser adequado para
                                             situações onde a perda de pacotes não comprometa o desempenho, o TCP se revela mais confiável e
                                             eficiente para aplicações em que a entrega de dados precisa ser garantida e a comunicação
                                             precisa ser estável, como em sistemas sensíveis a falhas de comunicação, como robótica e IoT.
                                         </p>
                                         <h1 class="subtitle py-4">Teste de análise de desempenho do checksum no protocolo UDP</h1>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O protocolo UDP (User Datagram Protocol) é amplamente utilizado em aplicações onde a baixa
                                             latência e a simplicidade são mais importantes que a confiabilidade da entrega. Um dos aspectos
                                             característicos do UDP é que o uso do checksum é opcional, o que contrasta com o protocolo TCP,
                                             que sempre realiza verificações de integridade e mecanismos de controle para garantir a entrega.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Embora a desabilitação do checksum no UDP possa melhorar a taxa de transmissão ao reduzir o
                                             processamento, ela também pode introduzir riscos, como a entrega de dados corrompidos sem
                                             detecção, afetando negativamente aplicações que dependem de integridade na comunicação. Este
@@ -286,35 +286,35 @@
                                             devido aos seus mecanismos de controle e confiabilidade.
                                         </p>
                                         <h1 class="subtitle py-4">Descrição do Teste</h1>
-                                        <p>
+                                        <p class="ci1061-text">
                                             O objetivo do teste é analisar o desempenho do protocolo UDP com e sem checksum, avaliando o
                                             impacto sobre a taxa de transmissão de dados, considerando a perda de pacotes (incluindo o EOF),
                                             além de compará-lo com o protocolo TCP. Para isso, foi realizada a transferência de arquivos de
                                             diferentes tamanhos (pequenos, médios e grandes), em um ambiente controlado, onde o cliente UDP
                                             foi configurado para habilitar e desabilitar o checksum.
                                         </p>
-                                        <p>As etapas principais do teste foram:</p>
-                                        <p>
+                                        <p class="ci1061-text">As etapas principais do teste foram:</p>
+                                        <p class="ci1061-text">
                                             1. Selecionar um conjunto de arquivos representando diferentes tamanhos para avaliar as
                                             variações no desempenho, sendo que tais arquivos não estão aqui presentes pois são arquivos com
                                             dados aleatórios, gerados pelo cliente (função create_random_file());
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             2. Enviar os arquivos utilizando UDP com o checksum habilitado e, em seguida, desabilitado,
                                             medindo o tempo de transmissão e a integridade dos dados recebidos (a integridade dos dados
                                             recebidos ajuda na conclusão da análise pré-estabelecida);
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             3. Repetir os mesmos testes utilizando o protocolo TCP para estabelecer uma linha de base de
                                             comparação;
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             4. Analisar os resultados com base na taxa de transmissão (segundos gastos durante toda a
                                             transmissão) e na integridade dos dados.
                                         </p>
                                         <h1 class="subtitle py-4">Teste com UDP</h1>
                                         <h3 class="subtitle-h3 pb-2">Teste com checksum</h3>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Nesse primeiro caso, a taxa de transmissão foi consistentemente rápida para arquivos menores (1
                                             KB a 10 MB), mas apresentou aumento significativo no tempo de transmissão para o arquivo de 100
                                             MB, sugerindo que o UDP com checksum mantém um desempenho competitivo para tamanhos moderados,
@@ -322,7 +322,7 @@
                                             observar tal informação acessando os arquivos de log e a partir do gráfico que será apresentado
                                             na sequência da página).
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             É possível observar que, na maioria dos casos, houve uma baixa porcentagem de perda de dados, o
                                             que reflete uma das limitações inerentes ao uso do protocolo UDP, já que ele não é confiável nem
                                             orientado à conexão. É importante destacar que a correção de pacotes perdidos não foi o foco
@@ -333,7 +333,7 @@
                                             habilitado nesse caso é que se o pacote chega corrompido, ele simplesmente descarta.
                                         </p>
                                         <h3 class="subtitle-h3 pb-2">Teste sem checksum</h3>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Nesse segundo caso, é possível observar que os tempos de transmissão registrados são baixos, mas
                                             nem tanto em comparação com o uso do checksum, apresentando um comportamento esperado, que não é
                                             ruim, mas não é tão superior ao UDP com checksum. Por outro lado, para arquivos maiores, como
@@ -353,13 +353,13 @@
                                             </figcaption>
                                         </div>
                                         <h1 class="subtitle py-4">Teste com TCP</h1>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Nos casos de teste com o protocolo TCP, os tempos de transmissão foram consideravelmente maiores
                                             em comparação ao UDP, especialmente para arquivos menores, como 1024b.txt e 500kb.txt. O que
                                             tende a ocorrer devido à sobrecarga adicional introduzida pelo TCP, que inclui confirmações de
                                             recebimento e outros mecanismos para garantir a confiabilidade da transmissão.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Um ponto fundamental é que, mesmo nos testes com arquivos maiores, o TCP garantiu que todos os
                                             dados chegassem de forma íntegra, sem perdas ou corrupção. Esse diferencial reforça a
                                             confiabilidade do TCP, tornando-o mais adequado para aplicações onde a integridade dos dados é
@@ -377,14 +377,14 @@
                                             </figcaption>
                                         </div>
                                         <h2 class="subtitle py-4">Conclusão</h2>
-                                        <p>
+                                        <p class="ci1061-text">
                                             A comparação entre UDP com e sem checksum demonstrou que, em termos de tempo de transmissão e
                                             perda de dados, ambos apresentam comportamentos praticamente equivalentes na transferência de
                                             arquivos. Isso reforça que o checksum no UDP, apesar de aumentar a confiabilidade ao detectar
                                             erros, não impacta significativamente o desempenho em cenários onde a correção de pacotes
                                             perdidos não é implementada.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Por outro lado, o protocolo TCP destacou-se por sua confiabilidade, garantindo a entrega
                                             integral dos dados em todos os testes. Para arquivos menores, a diferença de tempo em relação ao
                                             UDP foi mais perceptível, devido à sobrecarga dos controles de conexão e confirmações
@@ -392,7 +392,7 @@
                                             de transmissão entre TCP e UDP tornou-se menos expressiva, tornando o TCP a opção preferível
                                             para cenários que demandam integridade de dados.
                                         </p>
-                                        <p>
+                                        <p class="ci1061-text">
                                             Esses resultados estavam alinhados com o esperado, confirmando que o UDP é vantajoso para
                                             aplicações que priorizam rapidez e toleram perdas ocasionais, enquanto o TCP se mostra ideal
                                             para situações onde a confiabilidade é essencial, especialmente em transmissões de arquivos
@@ -403,7 +403,7 @@
                             </section>
                             <section id="codeandlogs" class="pb-2 pb-lg-5">
                                 <h1 class="title-me pb-5">Códigos & Logs</h1>
-                                <p class="about-text pb-3">
+                                <p class="ci1061-text pb-3">
                                     A tabela a seguir contém todos os códigos fontes que também podem ser encontrados no link para o
                                     repositório do GitHub que se encontra na próxima seção.
                                 </p>
@@ -455,11 +455,11 @@
                                         <td><a href="../fonts/server/serverUDP.cpp.txt" style="color: #e0e1dd">serverUDP.cpp.txt</a></td>
                                     </tr>
                                 </table>
-                                <p>
+                                <p class="ci1061-text">
                                     * É válido mencionar que optamos por separar os códigos do caso de teste do Checksum e da Perda de
                                     Pacotes por conta dos testes propriamente ditos e das informações contidas nos logs
                                 </p>
-                                <p class="about-text pt-4">
+                                <p class="ci1061-text pt-4">
                                     Os arquivos de log desempenham um papel fundamental na análise e validação dos resultados obtidos
                                     durante comparações de programas ou processos. Neste trabalho, tais arquivos registram informações
                                     relevantes que evidenciam a execução correta dos processos cliente/servidor, servindo como uma base
@@ -553,11 +553,10 @@
                             </section>
                             <section id="github" class="pb-2 pb-lg-5">
                                 <h1 class="title-me pb-5">Repositório do GitHub</h1>
-                                <p class="about-text">O trabalho em questão, desenvolvido pelos discentes abaixo:</p>
-                                <br />
-                                <p>Mateus de Oliveira SIlva (GRR20205669)</p>
-                                <p>Yuri Junqueira Tobias (GRR20211767)</p>
-                                <p class="py-2">
+                                <p class="ci1061-text">O trabalho em questão, desenvolvido pelos discentes abaixo:</p>
+                                <p class="ci1061-text">Mateus de Oliveira SIlva (GRR20205669)</p>
+                                <p class="ci1061-text">Yuri Junqueira Tobias (GRR20211767)</p>
+                                <p class="ci1061-text py-2">
                                     Pode ser encontrado
                                     <a href="https://github.com/YuriTobias/CI1061" style="color: #e0e1dd">neste</a> repositório do GitHub
                                 </p>

@@ -107,6 +107,12 @@ body {
     line-height: 1.2lh;
 }
 
+.ci1061-text {
+    text-align: justify;
+    font-family: var(--font-roboto);
+    line-height: 1.2lh;
+}
+
 .rocket-link {
     border: 3px solid var(--palette-fourth);
     animation: borderAnimation 3s infinite;
